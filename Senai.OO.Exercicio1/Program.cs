@@ -23,7 +23,7 @@ namespace Senai.OO.Exercicio1
                 Console.WriteLine($"O IMC de {pessoa1.Nome} é {pessoa1.Peso / Math.Pow(pessoa1.Altura, 2)}");
             #endregion
 
-             #region Pessoa 2
+            #region Pessoa 2
                 Pessoa pessoa2 = new Pessoa();
 
                 Console.WriteLine("Informe o nome da pessoa 2:");

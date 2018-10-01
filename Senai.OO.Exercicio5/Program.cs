@@ -8,25 +8,37 @@ namespace Senai.OO.Exercicio5
         static void Main(string[] args)
         {
             #region Aplicação 1
-            Aplicativo aplicacao1 = new Aplicativo();
-            Console.WriteLine("Informe o nome da aplicação:");
+            Aplicacao aplicacao1 = new Aplicacao();
+            //Recebendo o nome
+            Console.WriteLine("Insira o nome da aplicação");
             aplicacao1.Nome = Console.ReadLine();
 
-            Console.WriteLine("Informe o inicio da aplicação:");
-            aplicacao1.periodoInicio = DateTime.Parse(Console.ReadLine());
+            //Recebendo o valor que sera aplicado
+            Console.WriteLine("Quanto deseja investir?");
+            double ValorAplicado1 = double.Parse(Console.ReadLine());
+            
+            //Recebendo o periodo de retencao
+            Console.WriteLine("Insira o perido de retencao");
+            aplicacao1.PeriodoRentecao = int.Parse(Console.ReadLine());
+            
+            //Recebendo a taxa de juros
+            Console.WriteLine("Insira a taxa de juros");
+            aplicacao1.Juros = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("Informe o da periodo da aplicação:");
-            aplicacao1.Periodo = byte.Parse(Console.ReadLine());
+            //Exibindo relatorio 1
+            Console.WriteLine($"----APLICACAO {aplicacao1.Nome}----");
+            Console.WriteLine($"Valor aplicado: {ValorAplicado1.ToString("c")}");
+            Console.WriteLine($"Taxa de juros: {aplicacao1.Juros} %");
+            Console.WriteLine($"Periodo de retenção: {aplicacao1.PeriodoRentecao} (meses)");
 
-            Console.WriteLine("Informe o valor a ser aplicado:");
-            aplicacao1.Valor = decimal.Parse(Console.ReadLine());
-
-            Console.WriteLine("Informe a rentabilidade da aplicação por mes:");
-            aplicacao1.Rentabilidade = decimal.Parse(Console.ReadLine());
+            //Calculando a margem de lucro
+            double MargemLucro = aplicacao1.Juros / 100 * ValorAplicado1;
+            DateTime Hoje = DateTime.Now; //Criando um objeto datetime para hoje
+            DateTime DataRetorno = Hoje.AddMonths(aplicacao1.PeriodoRentecao);
+            Console.WriteLine($"Lucro (Juros): {MargemLucro.ToString("c")}");
+            Console.WriteLine($"Total retorno financeiro: {ValorAplicado1 + MargemLucro}");
+            Console.WriteLine($"Data de retirado {DataRetorno.ToShortDateString()}");
             #endregion
-            Console.WriteLine($"Nome da Aplicação: {aplicacao1.Nome}, valor da aplicação: {aplicacao1.Valor} , rentabilidade por mes: {aplicacao1.Rentabilidade}");
-            Console.WriteLine($"Rentabilidade no periodo da aplicação: {aplicacao1.Rentabilidade * aplicacao1.Periodo}, em porcentagem: {((aplicacao1.Rentabilidade * aplicacao1.Periodo) * 100) / aplicacao1.Valor} %");
-            Console.WriteLine($"Valor final: {(aplicacao1.Rentabilidade * aplicacao1.Periodo) + aplicacao1.Valor}");
         }
     }
 }

@@ -8,10 +8,10 @@ namespace Senai.Operadores.Logicos.Exercicio1
         {
             //Solicitando os valores
             Console.WriteLine("Insira um valor: ");
-            double Valor1 = double.Parse(Console.ReadLine());
+            int Valor1 = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Insira outro valor: ");
-            double Valor2 = double.Parse(Console.ReadLine());
+            int Valor2 = int.Parse(Console.ReadLine());
 
             //Teste logico de maior ou menor
             if(Valor1>Valor2){

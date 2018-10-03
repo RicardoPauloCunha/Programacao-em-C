@@ -9,3 +9,14 @@ C:\Users\50473694808\Desktop\C#\Senai.Operadores.Logicos\Senai.Operadores.Logico
 C:\Users\50473694808\Desktop\C#\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio4\obj\Debug\netcoreapp2.1\Senai.Operadores.Logicos.Exercicio4.AssemblyInfo.cs
 C:\Users\50473694808\Desktop\C#\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio4\obj\Debug\netcoreapp2.1\Senai.Operadores.Logicos.Exercicio4.dll
 C:\Users\50473694808\Desktop\C#\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio4\obj\Debug\netcoreapp2.1\Senai.Operadores.Logicos.Exercicio4.pdb
+C:\Users\rafae\Desktop\arquivos ricardo\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio4\bin\Debug\netcoreapp2.1\Senai.Operadores.Logicos.Exercicio4.deps.json
+C:\Users\rafae\Desktop\arquivos ricardo\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio4\bin\Debug\netcoreapp2.1\Senai.Operadores.Logicos.Exercicio4.runtimeconfig.json
+C:\Users\rafae\Desktop\arquivos ricardo\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio4\bin\Debug\netcoreapp2.1\Senai.Operadores.Logicos.Exercicio4.runtimeconfig.dev.json
+C:\Users\rafae\Desktop\arquivos ricardo\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio4\bin\Debug\netcoreapp2.1\Senai.Operadores.Logicos.Exercicio4.dll
+C:\Users\rafae\Desktop\arquivos ricardo\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio4\bin\Debug\netcoreapp2.1\Senai.Operadores.Logicos.Exercicio4.pdb
+C:\Users\rafae\Desktop\arquivos ricardo\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio4\obj\Debug\netcoreapp2.1\Senai.Operadores.Logicos.Exercicio4.csprojAssemblyReference.cache
+C:\Users\rafae\Desktop\arquivos ricardo\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio4\obj\Debug\netcoreapp2.1\Senai.Operadores.Logicos.Exercicio4.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Desktop\arquivos ricardo\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio4\obj\Debug\netcoreapp2.1\Senai.Operadores.Logicos.Exercicio4.AssemblyInfoInputs.cache
+C:\Users\rafae\Desktop\arquivos ricardo\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio4\obj\Debug\netcoreapp2.1\Senai.Operadores.Logicos.Exercicio4.AssemblyInfo.cs
+C:\Users\rafae\Desktop\arquivos ricardo\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio4\obj\Debug\netcoreapp2.1\Senai.Operadores.Logicos.Exercicio4.dll
+C:\Users\rafae\Desktop\arquivos ricardo\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio4\obj\Debug\netcoreapp2.1\Senai.Operadores.Logicos.Exercicio4.pdb

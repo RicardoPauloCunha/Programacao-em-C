@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\50473694808\\Desktop\\C#\\Senai.Operadores.Logicos\\Senai.Operadores.Logicos.Exercicio4\\Senai.Operadores.Logicos.Exercicio4.csproj",
+      "projectUniqueName": "c:\\Users\\50473694808\\Desktop\\C#\\Senai.Operadores.Logicos\\Senai.Operadores.Logicos.Exercicio4\\Senai.Operadores.Logicos.Exercicio4.csproj",
       "projectName": "Senai.Operadores.Logicos.Exercicio4",
-      "projectPath": "C:\\Users\\50473694808\\Desktop\\C#\\Senai.Operadores.Logicos\\Senai.Operadores.Logicos.Exercicio4\\Senai.Operadores.Logicos.Exercicio4.csproj",
+      "projectPath": "c:\\Users\\50473694808\\Desktop\\C#\\Senai.Operadores.Logicos\\Senai.Operadores.Logicos.Exercicio4\\Senai.Operadores.Logicos.Exercicio4.csproj",
       "packagesPath": "C:\\Users\\50473694808\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\50473694808\\Desktop\\C#\\Senai.Operadores.Logicos\\Senai.Operadores.Logicos.Exercicio4\\obj\\",
+      "outputPath": "c:\\Users\\50473694808\\Desktop\\C#\\Senai.Operadores.Logicos\\Senai.Operadores.Logicos.Exercicio4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

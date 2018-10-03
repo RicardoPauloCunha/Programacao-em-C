@@ -1,0 +1,11 @@
+C:\Users\50473694808\Desktop\C#\Senai.Exemplos\Senai.Exemplo.Swith.DiaSemana\bin\Debug\netcoreapp2.1\Senai.Exemplo.Swith.DiaSemana.deps.json
+C:\Users\50473694808\Desktop\C#\Senai.Exemplos\Senai.Exemplo.Swith.DiaSemana\bin\Debug\netcoreapp2.1\Senai.Exemplo.Swith.DiaSemana.runtimeconfig.json
+C:\Users\50473694808\Desktop\C#\Senai.Exemplos\Senai.Exemplo.Swith.DiaSemana\bin\Debug\netcoreapp2.1\Senai.Exemplo.Swith.DiaSemana.runtimeconfig.dev.json
+C:\Users\50473694808\Desktop\C#\Senai.Exemplos\Senai.Exemplo.Swith.DiaSemana\bin\Debug\netcoreapp2.1\Senai.Exemplo.Swith.DiaSemana.dll
+C:\Users\50473694808\Desktop\C#\Senai.Exemplos\Senai.Exemplo.Swith.DiaSemana\bin\Debug\netcoreapp2.1\Senai.Exemplo.Swith.DiaSemana.pdb
+C:\Users\50473694808\Desktop\C#\Senai.Exemplos\Senai.Exemplo.Swith.DiaSemana\obj\Debug\netcoreapp2.1\Senai.Exemplo.Swith.DiaSemana.csprojAssemblyReference.cache
+C:\Users\50473694808\Desktop\C#\Senai.Exemplos\Senai.Exemplo.Swith.DiaSemana\obj\Debug\netcoreapp2.1\Senai.Exemplo.Swith.DiaSemana.csproj.CoreCompileInputs.cache
+C:\Users\50473694808\Desktop\C#\Senai.Exemplos\Senai.Exemplo.Swith.DiaSemana\obj\Debug\netcoreapp2.1\Senai.Exemplo.Swith.DiaSemana.AssemblyInfoInputs.cache
+C:\Users\50473694808\Desktop\C#\Senai.Exemplos\Senai.Exemplo.Swith.DiaSemana\obj\Debug\netcoreapp2.1\Senai.Exemplo.Swith.DiaSemana.AssemblyInfo.cs
+C:\Users\50473694808\Desktop\C#\Senai.Exemplos\Senai.Exemplo.Swith.DiaSemana\obj\Debug\netcoreapp2.1\Senai.Exemplo.Swith.DiaSemana.dll
+C:\Users\50473694808\Desktop\C#\Senai.Exemplos\Senai.Exemplo.Swith.DiaSemana\obj\Debug\netcoreapp2.1\Senai.Exemplo.Swith.DiaSemana.pdb

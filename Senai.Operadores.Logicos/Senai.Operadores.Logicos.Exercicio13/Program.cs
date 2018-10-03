@@ -17,10 +17,10 @@ namespace Senai.Operadores.Logicos.Exercicio13
             int Resultado = Numero1 + Numero2;
         
             if(Resultado>10){
-                Resultado = Resultado + 5;
+                Resultado = Resultado + 8;
                 Console.WriteLine($"O resultado é : {Resultado}");
             }else if(Resultado<=20){
-                Resultado = Resultado = 7;
+                Resultado = Resultado - 5;
                 Console.WriteLine($"O resultado é : {Resultado}");
             }
         }

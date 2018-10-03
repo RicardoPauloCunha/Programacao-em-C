@@ -24,7 +24,7 @@ namespace Senai.Operadores.Logicos.Exercicio9
                 Console.WriteLine("Mês de nascimento é invalido");
             }
 
-            if(Ano<0=&&Ano>2013){
+            if(Ano<=0&&Ano>2013){
                 Console.WriteLine("Ano de nascimento é invalido");
             }else{
                 Console.WriteLine($"Seu aniverserio é valido: {Dia}/{Mes}/{Ano}");

@@ -8,7 +8,7 @@ namespace Senai.Metodos.Exemplo1
         static void Main(string[] args)
         {
             Carro carro1 = new Carro();
-            carro1.NivelTanque = 50;
+            // carro1.NivelTanque = 50;
             carro1.Ligar();
             carro1.Andar(125);
             carro1.Andar(200);

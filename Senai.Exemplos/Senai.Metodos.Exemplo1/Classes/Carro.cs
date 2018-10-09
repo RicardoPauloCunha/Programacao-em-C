@@ -4,11 +4,11 @@ namespace Senai.Metodos.Exemplo1.Classes {
     public class Carro {
         //Declaração de variaveis da Classe Carro
         #region Atributos
-        public float Odometro;
-        public float PotenciaDoMotor = 1.0f;
-        public float KilometroPorLitro = 10;
-        public float NivelTanque = 0;
-        public float CapacidadeTanque = 40;
+        public float Odometro {get; set;}
+        public float PotenciaDoMotor {get; set;}
+        public float KilometroPorLitro {get; set;}
+        public float NivelTanque {get; private set;}
+        public float CapacidadeTanque {get; set;}
         public bool Ligado = false;
         #endregion
 

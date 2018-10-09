@@ -1,28 +1,32 @@
 using System;
-namespace Senai.Metodos.Exercicio.Exemplo.Classes
+namespace Senai.Metodos.Exercicio1.Classes
 {
-    public class Calculo
+    public class Calculadora
     {
-        public class Calculadora {
-            public float Valor1;
-            public float Valor2;
-
-            #region Area
-                public float CalculaArea(){
-                float area = ladoA * ladoB;
-
-                return area;
+        #region Metodos
+            public double Somar (double valor1, double valor2) {
+                double resultado = valor1 + valor2;
+                Console.WriteLine($"A soma dos dois valos é: {resultado}");
+                return resultado; 
             }
-            #endregion
 
-            #region Perimetro
-                public float CalcularPerimetro(){
-                float perimetro = ladoA + ladoB + ladoA + ladoB;
-
-                return perimetro;
-            #endregion
+            public double Subtrair (double valor1, double valor2) {
+                double resultado = valor1 - valor2;
+                Console.WriteLine($"A subtração dos dois valos é: {resultado}");
+                return resultado;
             }
-            
+
+            public double Multiplicar (double valor1, double valor2) {
+                double resultado = valor1 * valor2;
+                Console.WriteLine($"A multiplicação dos dois valos é: {resultado}");
+                return resultado;
+            }
+
+            public double Dividir (double valor1, double valor2) {
+                double resultado = valor1 / valor2;
+                Console.WriteLine($"A divisão dos dois valos é: {resultado}");
+                return resultado;
+            }
+        #endregion
         }
     }
-}

@@ -1,0 +1,11 @@
+C:\Users\50473694808\Desktop\C#\Senai.Exemplos\Senai.Metodos.Exercicio.Exemplo\bin\Debug\netcoreapp2.1\Senai.Metodos.Exercicio.Exemplo.deps.json
+C:\Users\50473694808\Desktop\C#\Senai.Exemplos\Senai.Metodos.Exercicio.Exemplo\bin\Debug\netcoreapp2.1\Senai.Metodos.Exercicio.Exemplo.runtimeconfig.json
+C:\Users\50473694808\Desktop\C#\Senai.Exemplos\Senai.Metodos.Exercicio.Exemplo\bin\Debug\netcoreapp2.1\Senai.Metodos.Exercicio.Exemplo.runtimeconfig.dev.json
+C:\Users\50473694808\Desktop\C#\Senai.Exemplos\Senai.Metodos.Exercicio.Exemplo\bin\Debug\netcoreapp2.1\Senai.Metodos.Exercicio.Exemplo.dll
+C:\Users\50473694808\Desktop\C#\Senai.Exemplos\Senai.Metodos.Exercicio.Exemplo\bin\Debug\netcoreapp2.1\Senai.Metodos.Exercicio.Exemplo.pdb
+C:\Users\50473694808\Desktop\C#\Senai.Exemplos\Senai.Metodos.Exercicio.Exemplo\obj\Debug\netcoreapp2.1\Senai.Metodos.Exercicio.Exemplo.csprojAssemblyReference.cache
+C:\Users\50473694808\Desktop\C#\Senai.Exemplos\Senai.Metodos.Exercicio.Exemplo\obj\Debug\netcoreapp2.1\Senai.Metodos.Exercicio.Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\50473694808\Desktop\C#\Senai.Exemplos\Senai.Metodos.Exercicio.Exemplo\obj\Debug\netcoreapp2.1\Senai.Metodos.Exercicio.Exemplo.AssemblyInfoInputs.cache
+C:\Users\50473694808\Desktop\C#\Senai.Exemplos\Senai.Metodos.Exercicio.Exemplo\obj\Debug\netcoreapp2.1\Senai.Metodos.Exercicio.Exemplo.AssemblyInfo.cs
+C:\Users\50473694808\Desktop\C#\Senai.Exemplos\Senai.Metodos.Exercicio.Exemplo\obj\Debug\netcoreapp2.1\Senai.Metodos.Exercicio.Exemplo.dll
+C:\Users\50473694808\Desktop\C#\Senai.Exemplos\Senai.Metodos.Exercicio.Exemplo\obj\Debug\netcoreapp2.1\Senai.Metodos.Exercicio.Exemplo.pdb

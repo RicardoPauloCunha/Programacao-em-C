@@ -3,12 +3,12 @@ namespace Senai.Metodos.Exercicio3.Classes
 {
     public class Porta
     {
-        public bool estado;
+        public bool aberta;
         public int acao;
 
         #region Metodos
             public void Abrir () {
-                switch (estado)
+                switch (aberta)
                 {   
                     case true:{
                         Console.WriteLine("Não precisa se esforçar para nada.");
@@ -21,11 +21,11 @@ namespace Senai.Metodos.Exercicio3.Classes
                     default:
                     break;
                 }
-                Console.WriteLine("Estado da porta: Aberta");
-                estado = true;
+                Console.WriteLine("estado da porta: Aberta");
+                aberta = true;
             }   
             public void Fechar () {
-                switch (estado)
+                switch (aberta)
                 {   
                     case true:{
                         Console.WriteLine("A porta fechou.");
@@ -38,8 +38,8 @@ namespace Senai.Metodos.Exercicio3.Classes
                     default:
                     break;
                 }
-                Console.WriteLine("Estado da porta: Fechada");
-                estado = false;
+                Console.WriteLine("estado da porta: Fechada");
+                aberta = false;
             }
         #endregion
     }

@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/Senai.Metodos.Exercicio4.csproj"
+                "${workspaceFolder}/Senai.Metodos.Exercicio5.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

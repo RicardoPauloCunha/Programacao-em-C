@@ -9,7 +9,7 @@ namespace Senai.Metodos.Exercicio3
         {
             Porta porta = new Porta();
             Console.WriteLine("A porta esta aberta?[true/false]");
-            porta.estado = bool.Parse(Console.ReadLine());
+            porta.aberta = bool.Parse(Console.ReadLine());
 
             do {
                 Console.WriteLine("O que você deseja fazer: 1 - abrir, 2 - fechar, 3 - sair?");

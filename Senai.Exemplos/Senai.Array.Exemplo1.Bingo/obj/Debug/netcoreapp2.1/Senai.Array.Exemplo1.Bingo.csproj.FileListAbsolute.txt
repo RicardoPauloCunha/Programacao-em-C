@@ -1,0 +1,11 @@
+C:\Users\50473694808\Desktop\C#\Senai.Exemplos\Senai.Array.Exemplo1.Bingo\bin\Debug\netcoreapp2.1\Senai.Array.Exemplo1.Bingo.deps.json
+C:\Users\50473694808\Desktop\C#\Senai.Exemplos\Senai.Array.Exemplo1.Bingo\bin\Debug\netcoreapp2.1\Senai.Array.Exemplo1.Bingo.runtimeconfig.json
+C:\Users\50473694808\Desktop\C#\Senai.Exemplos\Senai.Array.Exemplo1.Bingo\bin\Debug\netcoreapp2.1\Senai.Array.Exemplo1.Bingo.runtimeconfig.dev.json
+C:\Users\50473694808\Desktop\C#\Senai.Exemplos\Senai.Array.Exemplo1.Bingo\bin\Debug\netcoreapp2.1\Senai.Array.Exemplo1.Bingo.dll
+C:\Users\50473694808\Desktop\C#\Senai.Exemplos\Senai.Array.Exemplo1.Bingo\bin\Debug\netcoreapp2.1\Senai.Array.Exemplo1.Bingo.pdb
+C:\Users\50473694808\Desktop\C#\Senai.Exemplos\Senai.Array.Exemplo1.Bingo\obj\Debug\netcoreapp2.1\Senai.Array.Exemplo1.Bingo.csprojAssemblyReference.cache
+C:\Users\50473694808\Desktop\C#\Senai.Exemplos\Senai.Array.Exemplo1.Bingo\obj\Debug\netcoreapp2.1\Senai.Array.Exemplo1.Bingo.csproj.CoreCompileInputs.cache
+C:\Users\50473694808\Desktop\C#\Senai.Exemplos\Senai.Array.Exemplo1.Bingo\obj\Debug\netcoreapp2.1\Senai.Array.Exemplo1.Bingo.AssemblyInfoInputs.cache
+C:\Users\50473694808\Desktop\C#\Senai.Exemplos\Senai.Array.Exemplo1.Bingo\obj\Debug\netcoreapp2.1\Senai.Array.Exemplo1.Bingo.AssemblyInfo.cs
+C:\Users\50473694808\Desktop\C#\Senai.Exemplos\Senai.Array.Exemplo1.Bingo\obj\Debug\netcoreapp2.1\Senai.Array.Exemplo1.Bingo.dll
+C:\Users\50473694808\Desktop\C#\Senai.Exemplos\Senai.Array.Exemplo1.Bingo\obj\Debug\netcoreapp2.1\Senai.Array.Exemplo1.Bingo.pdb

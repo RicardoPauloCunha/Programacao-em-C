@@ -1,0 +1,11 @@
+C:\Users\50473694808\Desktop\C#\Senai.Array\Senai.Array.Exercicio1.ReservaDePassagens\bin\Debug\netcoreapp2.1\Senai.Array.Exercicio1.ReservaDePassagens.deps.json
+C:\Users\50473694808\Desktop\C#\Senai.Array\Senai.Array.Exercicio1.ReservaDePassagens\bin\Debug\netcoreapp2.1\Senai.Array.Exercicio1.ReservaDePassagens.runtimeconfig.json
+C:\Users\50473694808\Desktop\C#\Senai.Array\Senai.Array.Exercicio1.ReservaDePassagens\bin\Debug\netcoreapp2.1\Senai.Array.Exercicio1.ReservaDePassagens.runtimeconfig.dev.json
+C:\Users\50473694808\Desktop\C#\Senai.Array\Senai.Array.Exercicio1.ReservaDePassagens\bin\Debug\netcoreapp2.1\Senai.Array.Exercicio1.ReservaDePassagens.dll
+C:\Users\50473694808\Desktop\C#\Senai.Array\Senai.Array.Exercicio1.ReservaDePassagens\bin\Debug\netcoreapp2.1\Senai.Array.Exercicio1.ReservaDePassagens.pdb
+C:\Users\50473694808\Desktop\C#\Senai.Array\Senai.Array.Exercicio1.ReservaDePassagens\obj\Debug\netcoreapp2.1\Senai.Array.Exercicio1.ReservaDePassagens.csprojAssemblyReference.cache
+C:\Users\50473694808\Desktop\C#\Senai.Array\Senai.Array.Exercicio1.ReservaDePassagens\obj\Debug\netcoreapp2.1\Senai.Array.Exercicio1.ReservaDePassagens.csproj.CoreCompileInputs.cache
+C:\Users\50473694808\Desktop\C#\Senai.Array\Senai.Array.Exercicio1.ReservaDePassagens\obj\Debug\netcoreapp2.1\Senai.Array.Exercicio1.ReservaDePassagens.AssemblyInfoInputs.cache
+C:\Users\50473694808\Desktop\C#\Senai.Array\Senai.Array.Exercicio1.ReservaDePassagens\obj\Debug\netcoreapp2.1\Senai.Array.Exercicio1.ReservaDePassagens.AssemblyInfo.cs
+C:\Users\50473694808\Desktop\C#\Senai.Array\Senai.Array.Exercicio1.ReservaDePassagens\obj\Debug\netcoreapp2.1\Senai.Array.Exercicio1.ReservaDePassagens.dll
+C:\Users\50473694808\Desktop\C#\Senai.Array\Senai.Array.Exercicio1.ReservaDePassagens\obj\Debug\netcoreapp2.1\Senai.Array.Exercicio1.ReservaDePassagens.pdb

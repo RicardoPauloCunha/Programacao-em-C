@@ -1,0 +1,11 @@
+C:\Users\50473694808\Desktop\C#\Senai.Matriz\Bingo\Senai.Exemplo.Matriz.Binco.NumerosSortiados\bin\Debug\netcoreapp2.1\Senai.Exemplo.Matriz.Binco.NumerosSortiados.deps.json
+C:\Users\50473694808\Desktop\C#\Senai.Matriz\Bingo\Senai.Exemplo.Matriz.Binco.NumerosSortiados\bin\Debug\netcoreapp2.1\Senai.Exemplo.Matriz.Binco.NumerosSortiados.runtimeconfig.json
+C:\Users\50473694808\Desktop\C#\Senai.Matriz\Bingo\Senai.Exemplo.Matriz.Binco.NumerosSortiados\bin\Debug\netcoreapp2.1\Senai.Exemplo.Matriz.Binco.NumerosSortiados.runtimeconfig.dev.json
+C:\Users\50473694808\Desktop\C#\Senai.Matriz\Bingo\Senai.Exemplo.Matriz.Binco.NumerosSortiados\bin\Debug\netcoreapp2.1\Senai.Exemplo.Matriz.Binco.NumerosSortiados.dll
+C:\Users\50473694808\Desktop\C#\Senai.Matriz\Bingo\Senai.Exemplo.Matriz.Binco.NumerosSortiados\bin\Debug\netcoreapp2.1\Senai.Exemplo.Matriz.Binco.NumerosSortiados.pdb
+C:\Users\50473694808\Desktop\C#\Senai.Matriz\Bingo\Senai.Exemplo.Matriz.Binco.NumerosSortiados\obj\Debug\netcoreapp2.1\Senai.Exemplo.Matriz.Binco.NumerosSortiados.csprojAssemblyReference.cache
+C:\Users\50473694808\Desktop\C#\Senai.Matriz\Bingo\Senai.Exemplo.Matriz.Binco.NumerosSortiados\obj\Debug\netcoreapp2.1\Senai.Exemplo.Matriz.Binco.NumerosSortiados.csproj.CoreCompileInputs.cache
+C:\Users\50473694808\Desktop\C#\Senai.Matriz\Bingo\Senai.Exemplo.Matriz.Binco.NumerosSortiados\obj\Debug\netcoreapp2.1\Senai.Exemplo.Matriz.Binco.NumerosSortiados.AssemblyInfoInputs.cache
+C:\Users\50473694808\Desktop\C#\Senai.Matriz\Bingo\Senai.Exemplo.Matriz.Binco.NumerosSortiados\obj\Debug\netcoreapp2.1\Senai.Exemplo.Matriz.Binco.NumerosSortiados.AssemblyInfo.cs
+C:\Users\50473694808\Desktop\C#\Senai.Matriz\Bingo\Senai.Exemplo.Matriz.Binco.NumerosSortiados\obj\Debug\netcoreapp2.1\Senai.Exemplo.Matriz.Binco.NumerosSortiados.dll
+C:\Users\50473694808\Desktop\C#\Senai.Matriz\Bingo\Senai.Exemplo.Matriz.Binco.NumerosSortiados\obj\Debug\netcoreapp2.1\Senai.Exemplo.Matriz.Binco.NumerosSortiados.pdb

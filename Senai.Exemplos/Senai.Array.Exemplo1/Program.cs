@@ -16,7 +16,7 @@ namespace Senai.Array.Exemplo1
                 contador++;
             }while(contador < numeros.Length);
 
-            // Console.WriteLine("O numero na 2º posição é: " + numeros[1]);
+            // Console.WriteLine("O numero na 2º posição é: 2º + numeros[1]);
 
             System.Array.Sort(numeros);
 

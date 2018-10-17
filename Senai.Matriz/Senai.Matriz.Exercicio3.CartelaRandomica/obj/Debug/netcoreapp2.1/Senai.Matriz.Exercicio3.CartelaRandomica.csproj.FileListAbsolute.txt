@@ -1,0 +1,11 @@
+C:\Users\50473694808\Desktop\C#\Senai.Matriz\Senai.Matriz.Exercicio3.CartelaRandomica\bin\Debug\netcoreapp2.1\Senai.Matriz.Exercicio3.CartelaRandomica.deps.json
+C:\Users\50473694808\Desktop\C#\Senai.Matriz\Senai.Matriz.Exercicio3.CartelaRandomica\bin\Debug\netcoreapp2.1\Senai.Matriz.Exercicio3.CartelaRandomica.runtimeconfig.json
+C:\Users\50473694808\Desktop\C#\Senai.Matriz\Senai.Matriz.Exercicio3.CartelaRandomica\bin\Debug\netcoreapp2.1\Senai.Matriz.Exercicio3.CartelaRandomica.runtimeconfig.dev.json
+C:\Users\50473694808\Desktop\C#\Senai.Matriz\Senai.Matriz.Exercicio3.CartelaRandomica\bin\Debug\netcoreapp2.1\Senai.Matriz.Exercicio3.CartelaRandomica.dll
+C:\Users\50473694808\Desktop\C#\Senai.Matriz\Senai.Matriz.Exercicio3.CartelaRandomica\bin\Debug\netcoreapp2.1\Senai.Matriz.Exercicio3.CartelaRandomica.pdb
+C:\Users\50473694808\Desktop\C#\Senai.Matriz\Senai.Matriz.Exercicio3.CartelaRandomica\obj\Debug\netcoreapp2.1\Senai.Matriz.Exercicio3.CartelaRandomica.csprojAssemblyReference.cache
+C:\Users\50473694808\Desktop\C#\Senai.Matriz\Senai.Matriz.Exercicio3.CartelaRandomica\obj\Debug\netcoreapp2.1\Senai.Matriz.Exercicio3.CartelaRandomica.csproj.CoreCompileInputs.cache
+C:\Users\50473694808\Desktop\C#\Senai.Matriz\Senai.Matriz.Exercicio3.CartelaRandomica\obj\Debug\netcoreapp2.1\Senai.Matriz.Exercicio3.CartelaRandomica.AssemblyInfoInputs.cache
+C:\Users\50473694808\Desktop\C#\Senai.Matriz\Senai.Matriz.Exercicio3.CartelaRandomica\obj\Debug\netcoreapp2.1\Senai.Matriz.Exercicio3.CartelaRandomica.AssemblyInfo.cs
+C:\Users\50473694808\Desktop\C#\Senai.Matriz\Senai.Matriz.Exercicio3.CartelaRandomica\obj\Debug\netcoreapp2.1\Senai.Matriz.Exercicio3.CartelaRandomica.dll
+C:\Users\50473694808\Desktop\C#\Senai.Matriz\Senai.Matriz.Exercicio3.CartelaRandomica\obj\Debug\netcoreapp2.1\Senai.Matriz.Exercicio3.CartelaRandomica.pdb

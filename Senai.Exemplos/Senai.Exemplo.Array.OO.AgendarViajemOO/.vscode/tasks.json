@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/Senai.Lacos.Repiticao.Exercicio1/Senai.Lacos.Repiticao.Exercicio1.csproj"
+                "${workspaceFolder}/Senai.Exemplo.Array.OO.AgendarViajemOO.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

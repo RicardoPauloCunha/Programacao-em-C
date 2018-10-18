@@ -16,9 +16,9 @@ namespace Senai.Exercicio.Array.OO.Cadastro
                 Cadastro[i] = new CadastroUsuario();
                 Cadastro[i].ReceberDados();
             }
-            for (int i = 0; i < quantCadastro; i++)
+            for (int i = quantCadastro -1; i >= 0; i--)
             {
-                Console.WriteLine($"{Cadastro[i].nome}, {Cadastro[i].idade}, {Cadastro[i].endereco}");
+                Console.WriteLine($"{i+1}º {Cadastro[i].nome}, {Cadastro[i].idade}, {Cadastro[i].endereco}");
             }
         }
     }

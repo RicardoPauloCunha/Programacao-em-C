@@ -1,0 +1,11 @@
+C:\Users\fic\tarde\Senai.Projetos.Financeiro\bin\Debug\netcoreapp2.1\Senai.Projetos.Financeiro.deps.json
+C:\Users\fic\tarde\Senai.Projetos.Financeiro\bin\Debug\netcoreapp2.1\Senai.Projetos.Financeiro.runtimeconfig.json
+C:\Users\fic\tarde\Senai.Projetos.Financeiro\bin\Debug\netcoreapp2.1\Senai.Projetos.Financeiro.runtimeconfig.dev.json
+C:\Users\fic\tarde\Senai.Projetos.Financeiro\bin\Debug\netcoreapp2.1\Senai.Projetos.Financeiro.dll
+C:\Users\fic\tarde\Senai.Projetos.Financeiro\bin\Debug\netcoreapp2.1\Senai.Projetos.Financeiro.pdb
+C:\Users\fic\tarde\Senai.Projetos.Financeiro\obj\Debug\netcoreapp2.1\Senai.Projetos.Financeiro.csprojAssemblyReference.cache
+C:\Users\fic\tarde\Senai.Projetos.Financeiro\obj\Debug\netcoreapp2.1\Senai.Projetos.Financeiro.csproj.CoreCompileInputs.cache
+C:\Users\fic\tarde\Senai.Projetos.Financeiro\obj\Debug\netcoreapp2.1\Senai.Projetos.Financeiro.AssemblyInfoInputs.cache
+C:\Users\fic\tarde\Senai.Projetos.Financeiro\obj\Debug\netcoreapp2.1\Senai.Projetos.Financeiro.AssemblyInfo.cs
+C:\Users\fic\tarde\Senai.Projetos.Financeiro\obj\Debug\netcoreapp2.1\Senai.Projetos.Financeiro.dll
+C:\Users\fic\tarde\Senai.Projetos.Financeiro\obj\Debug\netcoreapp2.1\Senai.Projetos.Financeiro.pdb

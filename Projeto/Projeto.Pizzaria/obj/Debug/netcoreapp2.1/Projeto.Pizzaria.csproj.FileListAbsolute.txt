@@ -1,0 +1,11 @@
+C:\Users\50473694808\Desktop\C#\Projeto\Projeto.Pizzaria\bin\Debug\netcoreapp2.1\Projeto.Pizzaria.deps.json
+C:\Users\50473694808\Desktop\C#\Projeto\Projeto.Pizzaria\bin\Debug\netcoreapp2.1\Projeto.Pizzaria.runtimeconfig.json
+C:\Users\50473694808\Desktop\C#\Projeto\Projeto.Pizzaria\bin\Debug\netcoreapp2.1\Projeto.Pizzaria.runtimeconfig.dev.json
+C:\Users\50473694808\Desktop\C#\Projeto\Projeto.Pizzaria\bin\Debug\netcoreapp2.1\Projeto.Pizzaria.dll
+C:\Users\50473694808\Desktop\C#\Projeto\Projeto.Pizzaria\bin\Debug\netcoreapp2.1\Projeto.Pizzaria.pdb
+C:\Users\50473694808\Desktop\C#\Projeto\Projeto.Pizzaria\obj\Debug\netcoreapp2.1\Projeto.Pizzaria.csprojAssemblyReference.cache
+C:\Users\50473694808\Desktop\C#\Projeto\Projeto.Pizzaria\obj\Debug\netcoreapp2.1\Projeto.Pizzaria.csproj.CoreCompileInputs.cache
+C:\Users\50473694808\Desktop\C#\Projeto\Projeto.Pizzaria\obj\Debug\netcoreapp2.1\Projeto.Pizzaria.AssemblyInfoInputs.cache
+C:\Users\50473694808\Desktop\C#\Projeto\Projeto.Pizzaria\obj\Debug\netcoreapp2.1\Projeto.Pizzaria.AssemblyInfo.cs
+C:\Users\50473694808\Desktop\C#\Projeto\Projeto.Pizzaria\obj\Debug\netcoreapp2.1\Projeto.Pizzaria.dll
+C:\Users\50473694808\Desktop\C#\Projeto\Projeto.Pizzaria\obj\Debug\netcoreapp2.1\Projeto.Pizzaria.pdb

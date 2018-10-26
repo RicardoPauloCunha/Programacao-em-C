@@ -35,7 +35,7 @@ namespace Senai.OO.Pizzaria.MVC.Util
             Console.WriteLine("           (2) Listar                       ");
             Console.WriteLine("           (3) Valor Total                  ");
             Console.WriteLine("           (4) Alterar                      ");
-            Console.WriteLine("           (4) Remover                      ");
+            Console.WriteLine("           (5) Remover                      ");
             Console.WriteLine("--------------------------------------------");
             Console.WriteLine("           (0) Sair                         ");
             Console.WriteLine("--------------------------------------------");

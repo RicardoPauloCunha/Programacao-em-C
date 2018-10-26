@@ -9,7 +9,7 @@ namespace Senai.OO.Pizzaria.MVC
     {
         static void Main(string[] args)
         {
-            int opcaoDeslogado = 0, opcaoLogado;
+            int opcaoDeslogado = 0, opcaoLogado = 0;
 
             do {
                 MenuUtil.MenuDeslogardo();
@@ -23,7 +23,47 @@ namespace Senai.OO.Pizzaria.MVC
                     }
 
                     case 2: {
-                        
+                        //chama a pagina login e aguardo o retorno
+                        UsuarioViewModel usuarioViewModel = UsuarioViewController.EfetuarLogin();
+
+                        //usuario valido
+                        if (usuarioViewModel != null) {
+                            System.Console.WriteLine($"Seja Bem-Vindo {usuarioViewModel.Nome}");
+
+                            //laço menu logado
+                            do {
+                                //mostra o menu e obtem opção menu
+                                MenuUtil.MenuLogado();
+                                opcaoLogado = int.Parse(Console.ReadLine());
+                            } while (opcaoLogado != 0);
+
+                            switch (opcaoLogado)
+                            {
+                                case 1: {
+                                    ProdutoViewController.CadastrarProduto();
+                                    break;
+                                }
+
+                                case 2: {
+                                    ProdutoViewController.ListarProduto();
+                                    break;
+                                }
+
+                                case 3: {
+                                    ProdutoViewController.ExibirTotal();
+                                    break;
+                                }
+                                case 0: {
+                                    System.Console.WriteLine("Tchau!!!");
+                                    break;
+                                }
+                                
+                                default: {
+                                    System.Console.WriteLine("Opção inválida");
+                                    break;
+                                }
+                            }
+                        }
                         break;
                     }
 

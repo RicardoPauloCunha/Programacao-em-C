@@ -29,5 +29,12 @@ namespace Senai.OO.Pizzaria.MVC.Util
             }
             return false;
         }
+
+        public static bool ValidarCategoria(string Categoria) {
+            if (Categoria.ToLower() == "pizza" || Categoria.ToLower() == "bebida") {
+                return true;
+            }
+            return false;
+        }
     }
 }

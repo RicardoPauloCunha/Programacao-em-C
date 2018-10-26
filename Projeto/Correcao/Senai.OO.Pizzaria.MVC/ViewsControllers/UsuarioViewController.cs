@@ -67,5 +67,42 @@ namespace Senai.OO.Pizzaria.MVC.ViewsControllers {
                 System.Console.WriteLine($"{item.Id} - {item.Nome} - {item.Email}");
             }
         }
+
+        public static UsuarioViewModel EfetuarLogin() {
+            string Email, Senha;
+
+            #region View            
+            do {
+                System.Console.WriteLine ("Insira o email com @ e .");
+                Email = Console.ReadLine ();
+
+                if (!ValidacaoUtil.ValidarEmail (Email)) {
+                    System.Console.WriteLine ("Email inválido");
+                }
+            } while (!ValidacaoUtil.ValidarEmail (Email));
+
+            do {
+                System.Console.WriteLine ("Insira o Senha");
+                Senha = Console.ReadLine ();
+
+                if (!ValidacaoUtil.ValidarSenha (Senha)) {
+                    System.Console.WriteLine ("Senha inválida");
+                }
+            } while (!ValidacaoUtil.ValidarSenha (Senha));
+            #endregion
+
+            #region Controller
+            //verifica se usuario existe
+            UsuarioViewModel usuarioViewModel = usuarioRep.EfetuarLogin(Email, Senha);
+
+            //verifica se retorna um usuario valído
+            if (usuarioViewModel != null) {
+                return usuarioViewModel;
+            } else {
+                System.Console.WriteLine("Emaill ou Senha inválidos");
+                return null;
+            }
+            #endregion   
+            }
     }
 }

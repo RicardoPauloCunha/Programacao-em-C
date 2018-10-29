@@ -1,0 +1,11 @@
+C:\Users\50473694808\Desktop\C#\Senai.LeituraEscritaDados\Senai.Legenda.Video\bin\Debug\netcoreapp2.1\Senai.Legenda.Video.deps.json
+C:\Users\50473694808\Desktop\C#\Senai.LeituraEscritaDados\Senai.Legenda.Video\bin\Debug\netcoreapp2.1\Senai.Legenda.Video.runtimeconfig.json
+C:\Users\50473694808\Desktop\C#\Senai.LeituraEscritaDados\Senai.Legenda.Video\bin\Debug\netcoreapp2.1\Senai.Legenda.Video.runtimeconfig.dev.json
+C:\Users\50473694808\Desktop\C#\Senai.LeituraEscritaDados\Senai.Legenda.Video\bin\Debug\netcoreapp2.1\Senai.Legenda.Video.dll
+C:\Users\50473694808\Desktop\C#\Senai.LeituraEscritaDados\Senai.Legenda.Video\bin\Debug\netcoreapp2.1\Senai.Legenda.Video.pdb
+C:\Users\50473694808\Desktop\C#\Senai.LeituraEscritaDados\Senai.Legenda.Video\obj\Debug\netcoreapp2.1\Senai.Legenda.Video.csprojAssemblyReference.cache
+C:\Users\50473694808\Desktop\C#\Senai.LeituraEscritaDados\Senai.Legenda.Video\obj\Debug\netcoreapp2.1\Senai.Legenda.Video.csproj.CoreCompileInputs.cache
+C:\Users\50473694808\Desktop\C#\Senai.LeituraEscritaDados\Senai.Legenda.Video\obj\Debug\netcoreapp2.1\Senai.Legenda.Video.AssemblyInfoInputs.cache
+C:\Users\50473694808\Desktop\C#\Senai.LeituraEscritaDados\Senai.Legenda.Video\obj\Debug\netcoreapp2.1\Senai.Legenda.Video.AssemblyInfo.cs
+C:\Users\50473694808\Desktop\C#\Senai.LeituraEscritaDados\Senai.Legenda.Video\obj\Debug\netcoreapp2.1\Senai.Legenda.Video.dll
+C:\Users\50473694808\Desktop\C#\Senai.LeituraEscritaDados\Senai.Legenda.Video\obj\Debug\netcoreapp2.1\Senai.Legenda.Video.pdb

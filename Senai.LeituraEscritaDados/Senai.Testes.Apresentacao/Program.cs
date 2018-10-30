@@ -15,10 +15,10 @@ namespace Senai.Testes.Apresentacao
             string Email;
             DateTime Data = DateTime.Now;
             string opcao;
+
             //BASE PARA A ESCRITA DE TEXTO:
             StreamWriter WrArquivoTexto;
             Console.WriteLine("1 - Criar um Arquivo de Texto");
-            Console.WriteLine("2 - Criar um Arquivo de Imagem");
             Console.WriteLine("0 - Sair");
             Menu = Console.ReadLine();
             
@@ -65,11 +65,6 @@ namespace Senai.Testes.Apresentacao
                     break;
                 }
 
-                case "2": {
-                    Console.WriteLine("--Criar Arquivo Imagem--");
-                    break;
-                }
-
                 case "0": {
                     Console.WriteLine("--Sair--");
                     break;
@@ -111,7 +106,7 @@ namespace Senai.Testes.Apresentacao
                  }
 
                  case "N": {
-                     Console.WriteLine("^^");
+                     Console.WriteLine("Deletado com Sucesso");
                      break;
                  }
                  

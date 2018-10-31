@@ -1,0 +1,17 @@
+C:/Users/48430817875/Documents/SENAI/Aulas/Sprint 4/Programação/2018-10-29/Leitura-e-Escrita-de-Arquivos/obj/Debug/netcoreapp2.1/Leitura-e-Escrita-de-Arquivos.csprojAssemblyReference.cache
+C:/Users/48430817875/Documents/SENAI/Aulas/Sprint 4/Programação/2018-10-29/Leitura-e-Escrita-de-Arquivos/obj/Debug/netcoreapp2.1/Leitura-e-Escrita-de-Arquivos.csproj.CoreCompileInputs.cache
+C:/Users/48430817875/Documents/SENAI/Aulas/Sprint 4/Programação/2018-10-29/Leitura-e-Escrita-de-Arquivos/obj/Debug/netcoreapp2.1/Leitura-e-Escrita-de-Arquivos.AssemblyInfoInputs.cache
+C:/Users/48430817875/Documents/SENAI/Aulas/Sprint 4/Programação/2018-10-29/Leitura-e-Escrita-de-Arquivos/obj/Debug/netcoreapp2.1/Leitura-e-Escrita-de-Arquivos.AssemblyInfo.cs
+C:/Users/48430817875/Documents/SENAI/Aulas/Sprint 4/Programação/2018-10-29/Leitura-e-Escrita-de-Arquivos/bin/Debug/netcoreapp2.1/Leitura-e-Escrita-de-Arquivos.deps.json
+C:/Users/48430817875/Documents/SENAI/Aulas/Sprint 4/Programação/2018-10-29/Leitura-e-Escrita-de-Arquivos/bin/Debug/netcoreapp2.1/Leitura-e-Escrita-de-Arquivos.runtimeconfig.json
+C:/Users/48430817875/Documents/SENAI/Aulas/Sprint 4/Programação/2018-10-29/Leitura-e-Escrita-de-Arquivos/bin/Debug/netcoreapp2.1/Leitura-e-Escrita-de-Arquivos.runtimeconfig.dev.json
+C:/Users/48430817875/Documents/SENAI/Aulas/Sprint 4/Programação/2018-10-29/Leitura-e-Escrita-de-Arquivos/bin/Debug/netcoreapp2.1/Leitura-e-Escrita-de-Arquivos.dll
+C:/Users/48430817875/Documents/SENAI/Aulas/Sprint 4/Programação/2018-10-29/Leitura-e-Escrita-de-Arquivos/bin/Debug/netcoreapp2.1/Leitura-e-Escrita-de-Arquivos.pdb
+C:/Users/48430817875/Documents/SENAI/Aulas/Sprint 4/Programação/2018-10-29/Leitura-e-Escrita-de-Arquivos/obj/Debug/netcoreapp2.1/Leitura-e-Escrita-de-Arquivos.dll
+C:/Users/48430817875/Documents/SENAI/Aulas/Sprint 4/Programação/2018-10-29/Leitura-e-Escrita-de-Arquivos/obj/Debug/netcoreapp2.1/Leitura-e-Escrita-de-Arquivos.pdb
+/home/krhyzthyan/Schreibtisch/Schulaktivitäten/SENAI/Aulas/Sprint 4/Programação/2018-10-29/Leitura-e-Escrita-de-Arquivos/obj/Debug/netcoreapp2.1/Leitura-e-Escrita-de-Arquivos.csprojAssemblyReference.cache
+/home/krhyzthyan/Schreibtisch/Schulaktivitäten/SENAI/Aulas/Sprint 4/Programação/2018-10-29/Leitura-e-Escrita-de-Arquivos/obj/Debug/netcoreapp2.1/Leitura-e-Escrita-de-Arquivos.csproj.CoreCompileInputs.cache
+/home/krhyzthyan/Schreibtisch/Schulaktivitäten/SENAI/Aulas/Sprint 4/Programação/2018-10-29/Leitura-e-Escrita-de-Arquivos/obj/Debug/netcoreapp2.1/Leitura-e-Escrita-de-Arquivos.AssemblyInfoInputs.cache
+/home/krhyzthyan/Schreibtisch/Schulaktivitäten/SENAI/Aulas/Sprint 4/Programação/2018-10-29/Leitura-e-Escrita-de-Arquivos/obj/Debug/netcoreapp2.1/Leitura-e-Escrita-de-Arquivos.AssemblyInfo.cs
+/home/krhyzthyan/Schreibtisch/Schulaktivitäten/SENAI/Aulas/Sprint 4/Programação/2018-10-29/Leitura-e-Escrita-de-Arquivos/obj/Debug/netcoreapp2.1/Leitura-e-Escrita-de-Arquivos.dll
+/home/krhyzthyan/Schreibtisch/Schulaktivitäten/SENAI/Aulas/Sprint 4/Programação/2018-10-29/Leitura-e-Escrita-de-Arquivos/obj/Debug/netcoreapp2.1/Leitura-e-Escrita-de-Arquivos.pdb

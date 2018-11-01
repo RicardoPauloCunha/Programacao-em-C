@@ -28,7 +28,7 @@ namespace Senai.SistemaPizzaria.MVC.ViewsControllers
             if (lsUsuario != null)
                 contador = lsUsuario.Count;
 
-            StreamWriter sw = new StreamWriter ("Usuarios.txt", true); //declarado true depois do nome do arquivo para ele não sobescrever o que já foi salvo ou escrito;
+            StreamWriter sw = new StreamWriter ("Usuarios.csv", true); //declarado true depois do nome do arquivo para ele não sobescrever o que já foi salvo ou escrito;
             
             UsuarioViewModel Usuario = new UsuarioViewModel ();
             Usuario.Id = contador + 1;
@@ -37,7 +37,7 @@ namespace Senai.SistemaPizzaria.MVC.ViewsControllers
             Usuario.Senha = senha;
             Usuario.DataCriacao = DateTime.Now;
 
-            sw.WriteLine ($"{Usuario.Id} ; {Usuario.Nome} ; {Usuario.Email} ; {Usuario.Senha} ; {Usuario.DataCriacao}"); // padrão CSV com ";" para poder transformar o arquivo txt em uma tabela no excel
+            sw.WriteLine ($"{Usuario.Id};{Usuario.Nome};{Usuario.Email};{Usuario.Senha};{Usuario.DataCriacao}"); // padrão CSV com ";" para poder transformar o arquivo txt em uma tabela no excel
             sw.Close ();
             #endregion
         }
@@ -80,10 +80,10 @@ namespace Senai.SistemaPizzaria.MVC.ViewsControllers
             List<UsuarioViewModel> lsUsuario = new List<UsuarioViewModel> ();
             UsuarioViewModel usuario;
 
-            if (File.Exists("Usuarios.txt"))
-            return null;
+            if (!File.Exists("Usuarios.csv"))
+                return null;
 
-            string[] usuarios = File.ReadAllLines ("Usuarios.txt"); //Recebe todas as linhas do documento
+            string[] usuarios = File.ReadAllLines ("Usuarios.csv"); //Recebe todas as linhas do documento
 
             foreach (string item in usuarios) {
                 string[] dados = item.Split (";"); //Referente as linhas recebidas acima, separa as partes do arquivo com o ";"

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>Page Title</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+
+</head>
+
+<body>
+    <div class="Main-box">
+        <h1>Cadastrar Transação</h1>
+        <div class="form-box flex-container">
+            <form action="/Transacao/Cadastrar" method="POST">
+                <div class="input-area">
+                    <label>
+                        <input type="text" name="nome" class="campo" placeholder="Nome da Transação">
+                    </label>
+                </div>
+
+                <div class="input-area">
+                    <label>
+                        <input type="text" name="descricao" class="campo" placeholder="Descrição da Transação">
+                    </label>
+                </div>
+
+                <div class="input-area">
+                    <label>
+                        <input type="text" name="valor" class="campo" placeholder="Valor da Transação">
+                    </label>
+                </div>
+
+                <div class="input-area">
+                    <label>
+                        Tipo de Transacao:
+                        <input type="radio" name="tipoTransacao" value="Receita" placeholder="Receita">
+                        Receita
+                        <input type="radio" name="tipoTransacao" value="Despesa" placeholder="Despesa">
+                        Despesa
+                    </label>
+                </div>
+
+                <div class="input-area">
+                    <label>
+                        Data
+                        <input type="date" name="dataTransacao" placeholder="Data da Transação">
+                    </label>
+                </div>
+
+                <div class="input-area">
+                    <input type="submit" value="Cadastrar">
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+
+</html>

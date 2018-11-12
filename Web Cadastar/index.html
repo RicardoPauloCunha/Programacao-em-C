@@ -9,50 +9,40 @@
 </head>
 
 <body>
-    <div class="Main-box">
+    <div class="Main">
+
         <h1>Cadastrar Transação</h1>
-        <div class="form-box flex-container">
-            <form action="/Transacao/Cadastrar" method="POST">
-                <div class="input-area">
-                    <label>
-                        <input type="text" name="nome" class="campo" placeholder="Nome da Transação">
-                    </label>
-                </div>
 
-                <div class="input-area">
-                    <label>
-                        <input type="text" name="descricao" class="campo" placeholder="Descrição da Transação">
-                    </label>
-                </div>
+        <form action="/Transacao/Cadastrar" method="POST" class="form">
 
-                <div class="input-area">
-                    <label>
-                        <input type="text" name="valor" class="campo" placeholder="Valor da Transação">
-                    </label>
-                </div>
+            <label>
+                <input type="text" name="nome" class="campo" placeholder="Nome da Transação">
+            </label>
 
-                <div class="input-area">
-                    <label>
-                        Tipo de Transacao:
-                        <input type="radio" name="tipoTransacao" value="Receita" placeholder="Receita">
-                        Receita
-                        <input type="radio" name="tipoTransacao" value="Despesa" placeholder="Despesa">
-                        Despesa
-                    </label>
-                </div>
+            <label>
+                <input type="text" name="descricao" class="campo" placeholder="Descrição da Transação">
+            </label>
 
-                <div class="input-area">
-                    <label>
-                        Data
-                        <input type="date" name="dataTransacao" placeholder="Data da Transação">
-                    </label>
-                </div>
+            <label>
+                <input type="text" name="valor" class="campo" placeholder="Valor da Transação">
+            </label>
 
-                <div class="input-area">
-                    <input type="submit" value="Cadastrar">
-                </div>
-            </form>
-        </div>
+            <label class="text-box">
+                Tipo de Transacao:
+                <input type="radio" name="tipoTransacao" value="Receita" placeholder="Receita">
+                Receita
+                <input type="radio" name="tipoTransacao" value="Despesa" placeholder="Despesa">
+                Despesa
+            </label>
+
+            <label>
+                Data
+                <input type="date" name="dataTransacao" placeholder="Data da Transação" class="text-box">
+            </label>
+
+            <input type="submit" value="Cadastrar" class="submite">
+
+        </form>
     </div>
 </body>
 

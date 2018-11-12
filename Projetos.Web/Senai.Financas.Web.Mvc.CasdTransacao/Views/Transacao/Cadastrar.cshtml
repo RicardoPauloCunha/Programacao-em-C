@@ -1,0 +1,74 @@
+<style>
+    * {
+        box-sizing: border-box;
+        font-family: 'Open Sans';
+        margin: 0;
+        padding: 0;
+    }
+    body{
+        background-color: rgb(243, 242, 241);
+        font-size: 16px;
+        color: white;
+    }
+
+    h1 {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    #formContainer {
+        padding: 20px;
+        width: 50%;
+        height: 200px;
+        background-color: gray;
+        border: solid, black, 2px;
+        margin: auto;
+        margin-top: 200px;
+    }
+
+    form {
+        display: flex;
+    }
+
+    label {
+        width: 100%;
+        flex-direction: row;
+    }
+</style>
+
+<div Id="formContainer">
+    <h1>Cadastrar Transação</h1>
+
+    <form action="/Transacao/Cadastrar" method="POST" class="formLista">
+        <label>
+            Nome Transação
+            <input type="text" name="nome">
+        </label>
+
+        <label>
+            Descricao
+            <input type="text" name="descricao">
+        </label>
+
+        <label>
+            Valor
+            <input type="text" name="valor">
+        </label>
+
+        <label>
+            Tipo de Transacao:
+            <input type="radio" name="tipoTransacao" value="Receita">
+            Receita
+            <input type="radio" name="tipoTransacao" value="Despesa">
+            Despesa
+        </label>
+
+        <label>
+            Data
+            <input type="date" name="dataTransacao">
+        </label>
+
+        <input type="submit" value="Enviar">
+    </form>
+
+</div>

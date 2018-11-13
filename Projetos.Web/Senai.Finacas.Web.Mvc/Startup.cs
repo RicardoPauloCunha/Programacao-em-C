@@ -15,6 +15,13 @@ namespace Senai.Finacas.Web.Mvc
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
+            //adiciona um sistema login em que o usario permancera um tempo no serve e depois de inativo o usuario será retirado da memoria
+            services.AddDistributedMemoryCache();
+            services.AddSession(
+                options => options.IdleTimeout = TimeSpan.FromMinutes(10)
+            );
+
+            //adiciona o modelo mvc
             services.AddMvc();
         }
 
@@ -26,7 +33,14 @@ namespace Senai.Finacas.Web.Mvc
                 app.UseDeveloperExceptionPage();
             }
 
+            //usa o session
+            app.UseSession();
+
+            app.UseStaticFiles();
+            
+            //usa o mvc
             app.UseMvc(
+                // define um rota pra iniciar a pagina/programa
                 rota => rota.MapRoute(
                     name: "default",
                     template: "{controller=Usuario}/{action=Cadastrar}"

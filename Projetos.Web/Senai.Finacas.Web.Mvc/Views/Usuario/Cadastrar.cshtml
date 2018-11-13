@@ -1,33 +1,32 @@
-<style>
-    h1 {
-        color:red;
-    }
-</style>
+@{
+    ViewBag.Title = "Cadastrar Usuario";
+    Layout = "MasterPageDeslogado";
+}
 
 <h1>Formulario de Cadastro</h1>
 
-@ViewBag.Mensagem
+        @ViewBag.Mensagem
 
-<form action ="/Usuario/Cadastrar" method="POST">
-    <label>
-        Nome
-        <input type="text" name="nome">
-    </label>
+        <form action ="/Usuario/Cadastrar" method="POST" class="form">
+            <label>
+                Nome
+                <input type="text" name="nome" class="campo">
+            </label>
 
-    <label>
-        Email
-        <input type="email" name="email">
-    </label>
+            <label>
+                Email
+                <input type="email" name="email" class="campo">
+            </label>
 
-    <label>
-        Senha
-        <input type="password" name="senha">
-    </label>
+            <label>
+                Senha
+                <input type="password" name="senha" class="campo">
+            </label>
 
-    <label>
-        Data de Nascimento
-        <input type="date" name="dataNascimento">
-    </label>
+            <label>
+                Data de Nascimento
+                <input type="date" name="dataNascimento" class="text-box">
+            </label>
 
-    <input type="submit" valur="Enviar">
-</form>    
+            <input type="submit" valur="Enviar" class="submite">
+        </form>    

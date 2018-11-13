@@ -1,0 +1,36 @@
+@{
+    Layout = "MasterPageLogado"
+}
+
+        <h1>Formulario de Cadastro de Transição</h1>
+        <div class="mensagem text-box">
+        @ViewBag.Mensagem
+        </div>
+
+        <form action ="/Transacao/Cadastrar" method="POST" class="form">
+            <label>
+                Descricao:
+                <input type="text" name="descricao" required=true class="campo">
+            </label>
+
+            <label>
+                Valor:
+                <input type="text" name="valor" required=true class="campo">
+            </label>
+
+            <label>
+                <select name="tipo" required=true class="text-box">
+                Tipo:
+                    <option value="">Selecione</option>
+                    <option value="Receita">Receita</option>
+                    <option value="Despesa">Despesa</option>
+                </select>
+            </label>
+
+            <label>
+                Data:
+                <input type="date" name="data" required=true class="text-box">
+            </label>
+
+            <input type="submit" value="Cadastar" required=true class="submite">
+        </form>

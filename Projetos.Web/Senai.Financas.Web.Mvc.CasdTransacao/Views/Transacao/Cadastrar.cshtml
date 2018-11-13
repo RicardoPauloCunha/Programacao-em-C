@@ -1,74 +1,90 @@
 <style>
-    * {
-        box-sizing: border-box;
-        font-family: 'Open Sans';
-        margin: 0;
-        padding: 0;
+    *{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Montserrat', sans-serif;
     }
+
     body{
-        background-color: rgb(243, 242, 241);
+        width: 100%;
+        height: auto;
         font-size: 16px;
-        color: white;
+        color: rgb(53, 53, 53);
+        background-color: rgb(243, 243, 243);
     }
 
-    h1 {
-        text-align: center;
-        margin-bottom: 20px;
+    h1{
+        margin-bottom: 40px;
     }
 
-    #formContainer {
-        padding: 20px;
+    .Main {
         width: 50%;
-        height: 200px;
-        background-color: gray;
-        border: solid, black, 2px;
-        margin: auto;
-        margin-top: 200px;
+        background-color: #ececec;
+        margin: auto auto;
+        padding: 5%;
+        box-shadow: 4px 4px 4px 4px rgb(51, 51, 51, 0.5);
+        margin-top: 120px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        border: solid #d8d8d8 5px;
     }
 
     form {
         display: flex;
+        flex-direction: column;
     }
 
-    label {
-        width: 100%;
-        flex-direction: row;
+    .campo {
+        width: 60%;
+        margin-bottom: 15px;
+    }
+
+    .text-box {
+        margin-bottom: 15px;
+    }
+
+    .submite {
+        width: 30%;
+        margin: auto;
     }
 </style>
 
-<div Id="formContainer">
-    <h1>Cadastrar Transação</h1>
+<body>
+    <div class="Main">
 
-    <form action="/Transacao/Cadastrar" method="POST" class="formLista">
-        <label>
-            Nome Transação
-            <input type="text" name="nome">
-        </label>
+        <h1>Cadastrar Transação</h1>
 
-        <label>
-            Descricao
-            <input type="text" name="descricao">
-        </label>
+        <form action="/Transacao/Cadastrar" method="POST" class="form">
 
-        <label>
-            Valor
-            <input type="text" name="valor">
-        </label>
+            <label>
+                <input type="text" name="nome" class="campo" placeholder="Nome da Transação">
+            </label>
 
-        <label>
-            Tipo de Transacao:
-            <input type="radio" name="tipoTransacao" value="Receita">
-            Receita
-            <input type="radio" name="tipoTransacao" value="Despesa">
-            Despesa
-        </label>
+            <label>
+                <input type="text" name="descricao" class="campo" placeholder="Descrição da Transação">
+            </label>
 
-        <label>
-            Data
-            <input type="date" name="dataTransacao">
-        </label>
+            <label>
+                <input type="text" name="valor" class="campo" placeholder="Valor da Transação">
+            </label>
 
-        <input type="submit" value="Enviar">
-    </form>
+            <label class="text-box">
+                Tipo de Transacao:
+                <input type="radio" name="tipoTransacao" value="Receita" placeholder="Receita">
+                Receita
+                <input type="radio" name="tipoTransacao" value="Despesa" placeholder="Despesa">
+                Despesa
+            </label>
 
-</div>
+            <label>
+                Data
+                <input type="date" name="dataTransacao" placeholder="Data da Transação" class="text-box">
+            </label>
+
+            <input type="submit" value="Cadastrar" class="submite">
+
+        </form>
+    </div>
+</body>

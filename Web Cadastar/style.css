@@ -19,7 +19,7 @@ h1{
 
 .Main {
     width: 50%;
-    background-color: #ececec;
+    background-color: #d8d8d8;
     margin: auto auto;
     padding: 5%;
     box-shadow: 4px 4px 4px 4px rgb(51, 51, 51, 0.5);
@@ -46,4 +46,5 @@ form {
 .submite {
     width: 30%;
     margin: auto;
+    text-transform: uppercase;
 }

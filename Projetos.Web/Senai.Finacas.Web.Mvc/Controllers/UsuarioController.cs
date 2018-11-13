@@ -29,5 +29,32 @@ namespace Senai.Finacas.Web.Mvc.Controllers
 
             return View();
         }
+
+        [HttpGet]
+        public IActionResult Login() {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Login(IFormCollection form) {
+            UsuarioModel usuario = new UsuarioModel();
+            usuario.Email = form["email"];
+            usuario.Senha = form["senha"];
+           
+            using (StreamReader sr = new StreamReader("usuarios.csv")){
+                while (!sr.EndOfStream)
+                {
+                    string[] linhas = sr.ReadLine().Split(";");
+
+                    if (linhas[1] == usuario.Email && linhas[2] == usuario.Senha) {
+                        HttpContext.Session.SetString("emailUsuario", usuario.Email);
+                        return RedirectToAction("Cadastrar", "Transacao");
+                    }
+                }
+            }
+            ViewBag.Mensagem = "Ususario Inválido";
+
+            return View();
+        }
     }
 }

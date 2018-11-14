@@ -1,0 +1,26 @@
+<h1>Cadastrar Usuario</h1>
+
+<form method="Post" action="/Usuario/Cadastrar">
+    <label>
+        <input type="text" name="nome" placeholder="Nome">
+    </label>
+
+    <label>
+        <input type="email" name="email" placeholder="Email">
+    </label>
+
+    <label>
+        <input type="password" name="senha" placeholder="Senha">
+    </label>
+
+    <label>
+        <select name="tipo">
+            <option value="">Tipo de User</option>
+            <option value="usuario">Usuário</option>
+            <option value="admin">Admin</option>
+        </select>
+    </label>
+
+    <input type="submit" value="Cadastrar" value="Cadastrar">
+    @ViewBag.Mensagem
+</form>

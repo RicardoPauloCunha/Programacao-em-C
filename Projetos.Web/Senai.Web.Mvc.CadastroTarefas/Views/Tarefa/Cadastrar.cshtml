@@ -1,0 +1,27 @@
+<h1>Cadastrar Tarefas</h1>
+
+<form method="POST" action="/Tarefa/Cadastrar">
+    <label>
+        <input type="text" name="nome" placeholder="Nome">
+    </label>
+
+    <label>
+        <textarea name="descricao" cols="20" rows="5" placeholder="Descição da tarefa"></textarea>
+    </label>
+
+    <label>
+        <select name="tipo">
+            <option value="">Tipo de Tarefa</option>
+            <option value="para fazer">Para Fazer</option>
+            <option value="fazendo">Fazendo</option>
+            <option value="feito">Feito</option>
+        </select>
+    </label>
+
+    <label>
+        <input type="date" name="data">
+    </label>
+
+    <input type="submit" value="Cadastrar">
+    @ViewBag.Mensagem
+</form>

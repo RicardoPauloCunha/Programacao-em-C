@@ -17,7 +17,7 @@ namespace Senai.Web.Mvc.CadastroTarefas
         {
             services.AddDistributedMemoryCache();
             services.AddSession(
-                tempoLog => tempoLog.IdleTimeout = TimeSpan.FromMinutes(15)
+                tempoLog => tempoLog.IdleTimeout = TimeSpan.FromMinutes(10)
             );
             services.AddMvc();
         }

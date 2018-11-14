@@ -22,3 +22,4 @@ C:\Users\50473694808\Desktop\C#\Projetos.Web\Senai.Web.Mvc.CadastroTarefas\obj\D
 C:\Users\50473694808\Desktop\C#\Projetos.Web\Senai.Web.Mvc.CadastroTarefas\obj\Debug\netcoreapp2.1\Senai.Web.Mvc.CadastroTarefas.pdb
 C:\Users\50473694808\Desktop\C#\Projetos.Web\Senai.Web.Mvc.CadastroTarefas\obj\Debug\netcoreapp2.1\Senai.Web.Mvc.CadastroTarefas.csproj.CopyComplete
 C:\Users\50473694808\Desktop\C#\Projetos.Web\Senai.Web.Mvc.CadastroTarefas\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Login.g.cshtml.cs
+C:\Users\50473694808\Desktop\C#\Projetos.Web\Senai.Web.Mvc.CadastroTarefas\obj\Debug\netcoreapp2.1\Razor\Views\Tarefa\Cadastrar.g.cshtml.cs

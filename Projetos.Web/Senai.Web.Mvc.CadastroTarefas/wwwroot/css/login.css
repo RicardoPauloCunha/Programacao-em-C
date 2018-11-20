@@ -1,0 +1,102 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 16;
+    background-color: white;
+    width: 100%;  
+}
+
+.container {
+    width: 40%;
+    border: solid 0.3em rgb(132, 132, 255);
+    border-radius: 0.5em;
+    background-color: rgb(238, 238, 238);
+    padding: 0.5em 0.5em;
+    margin: 25vmin auto;
+}
+
+.menu {
+    display: flex;
+}
+
+h1 {
+    font-size: 2em;
+    color: rgb(132, 132, 255);
+}
+a {
+   font-size: 2em; 
+   text-decoration: none;
+   color:  rgb(132, 132, 255);
+   text-align: center;
+}
+
+.menu-select {
+    width: 50%;
+    text-align: center;
+}
+
+.menu-no-select {
+    width: 50%;
+    text-align: center;
+    border-bottom: solid 0.3em rgb(132, 132, 255);
+    border-left: solid 0.3em rgb(132, 132, 255); 
+    border-radius: 0.5em;
+}
+
+.main-principal {
+    width: 100%;
+    margin: 2em auto 0.7em auto;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    width: 100%;
+    text-align: center;
+}
+.camp-inserir {
+    width: 70%;
+    margin: 0 auto 1em auto;
+    border: solid 0.2em rgb(132, 132, 255);
+    padding: 0.2em;
+}
+
+.botton-envair {
+    width: auto;
+    border-radius: 0.5em;
+    border: solid 0.3em rgb(132, 132, 255); 
+    padding: 0.5em;
+    text-transform: uppercase;
+    margin: 0 auto 0 auto;
+    background-color: white;
+    color: rgb(87, 87, 87);
+}
+
+.botton-select {
+    text-align: center;
+    margin: 0 1em 1em 1em;
+    padding: 0.3em;
+    text-transform: none;
+}
+
+.bottons {
+    text-align: center;
+}
+
+.sair {
+    text-align: right;
+    font-size: 0.8em;
+}
+
+.mensagem {
+    text-align: center;
+    color: rgb(87, 87, 87);
+    margin-top: 1em;
+}

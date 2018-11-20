@@ -1,27 +1,57 @@
-<h1>Cadastrar Tarefas</h1>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="/wwwroot/css/login.css" />
+</head>
+<body>
+    @{
+        Layout = "MasterPageDeslogado";
+    }
+    <div class="container">
+        <header class="menu">
+            <div class="menu-select">
+                <h1 class="titulo-menu">Cadastrar Tarefa</h1>
+            </div>
+            <div class="menu-select sair">
+                <a href="Login.cshtml">Sair</a>
+            </div>
+        </header>
 
-<form method="POST" action="/Tarefa/Cadastrar">
-    <label>
-        <input type="text" name="nome" placeholder="Nome">
-    </label>
+        <main>
+            <div class="main-principal">
+                <form method="POST" action="/Tarefa/Cadastrar">
+                    <label>
+                        <input class="camp-inserir" type="text" name="nome" placeholder="Nome">
+                    </label>
 
-    <label>
-        <textarea name="descricao" cols="20" rows="5" placeholder="Descição da tarefa"></textarea>
-    </label>
+                    <label>
+                        <textarea class="camp-inserir" name="descricao" cols="20" rows="5" placeholder="Descição da tarefa"></textarea>
+                    </label>
 
-    <label>
-        <select name="tipo">
-            <option value="">Tipo de Tarefa</option>
-            <option value="para fazer">Para Fazer</option>
-            <option value="fazendo">Fazendo</option>
-            <option value="feito">Feito</option>
-        </select>
-    </label>
+                    <div class="bottons">
+                        <label>
+                        <select class="botton-envair botton-select" name="tipo">
+                            <option value="">Tipo de Tarefa</option>
+                            <option value="para fazer">Para Fazer</option>
+                            <option value="fazendo">Fazendo</option>
+                            <option value="feito">Feito</option>
+                        </select>
+                        </label>
 
-    <label>
-        <input type="date" name="data">
-    </label>
+                        <label>
+                            <input class="botton-envair botton-select" type="date" name="data">
+                        </label>
+                    </div>
 
-    <input type="submit" value="Cadastrar">
-    @ViewBag.Mensagem
-</form>
+                    <input class="botton-envair" type="submit" value="Cadastrar">
+                    <div class="mensagem">
+                        @ViewBag.Mensagem
+                    </div>
+                </form>
+            </div>
+        </main>
+    <div>
+</body>

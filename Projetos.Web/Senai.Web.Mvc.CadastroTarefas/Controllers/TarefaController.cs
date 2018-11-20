@@ -36,6 +36,7 @@ namespace Senai.Web.Mvc.CadastroTarefas.Controllers
             tarefa.Nome = form["nome"];
             tarefa.Descricao = form["descricao"];
             tarefa.Tipo = form["tipo"];
+            tarefa.IdUsuario = usuario.Id;
             tarefa.DataCriacao = DateTime.Parse(form["data"]);
             
 

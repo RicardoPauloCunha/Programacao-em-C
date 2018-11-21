@@ -1,0 +1,39 @@
+@{
+    Layout = "MasterPageLogado";
+}
+
+@using Senai.Finacas.Web.Mvc.Models;
+<h3>Listagem de Usuários</h3>
+
+<table>
+    <thead>
+        <th>Nome</th>
+        <th>Email</th>
+        <th>Data Nascimento</th>
+    </thead>
+    <tbody>
+       @foreach (var item in ViewData["Usuarios"] as List<UsuarioModel>)
+       {
+           <tr>
+                <td>
+                    @item.Nome
+                <td>
+                <td>
+                    @item.Email
+                <td>
+                <td>
+                    @item.DataNascimento.ToShortDateString()
+                <td>
+           </tr>
+       } 
+    </tbody>
+</table>
+
+<select name="usuarios">
+    @foreach (var item in ViewData["Usuarios"] as List<UsuarioModel>) 
+    {
+        <option value="@item.Email">
+            @item.Nome
+        </option>
+    }
+</select>

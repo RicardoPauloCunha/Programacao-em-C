@@ -24,3 +24,5 @@ C:\Users\50473694808\Desktop\C#\Projetos.Web\Senai.Finacas.Web.Mvc\obj\Debug\net
 C:\Users\50473694808\Desktop\C#\Projetos.Web\Senai.Finacas.Web.Mvc\obj\Debug\netcoreapp2.1\Razor\Views\Transacao\Cadastrar.g.cshtml.cs
 C:\Users\50473694808\Desktop\C#\Projetos.Web\Senai.Finacas.Web.Mvc\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Login.g.cshtml.cs
 C:\Users\50473694808\Desktop\C#\Projetos.Web\Senai.Finacas.Web.Mvc\obj\Debug\netcoreapp2.1\Razor\Views\Shared\MasterPageDeslogado.g.cshtml.cs
+C:\Users\50473694808\Desktop\C#\Projetos.Web\Senai.Finacas.Web.Mvc\obj\Debug\netcoreapp2.1\Razor\Views\Shared\MasterPageLogado.g.cshtml.cs
+C:\Users\50473694808\Desktop\C#\Projetos.Web\Senai.Finacas.Web.Mvc\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Listar.g.cshtml.cs

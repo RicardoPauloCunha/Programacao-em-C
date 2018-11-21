@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using System.IO;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -54,6 +55,30 @@ namespace Senai.Finacas.Web.Mvc.Controllers
             }
             ViewBag.Mensagem = "Ususario Inválido";
 
+            return View();
+        }
+
+        [HttpGet]
+        public IActionResult Listar() {
+            List<UsuarioModel> lsUsuarios = new List<UsuarioModel>();
+
+            string[] linhas = System.IO.File.ReadAllLines("usuarios.csv");
+
+            UsuarioModel usuario;
+
+            foreach (var item in linhas)
+            {
+                string[] linha = item.Split(";");
+                usuario = new UsuarioModel();
+                usuario.Nome = linha[0];
+                usuario.Email = linha[1];
+                usuario.Senha = linha[2];
+                usuario.DataNascimento = DateTime.Parse(linha[3]);
+                
+                lsUsuarios.Add(usuario);
+            }
+
+            ViewData["Usuarios"] = lsUsuarios;
             return View();
         }
     }

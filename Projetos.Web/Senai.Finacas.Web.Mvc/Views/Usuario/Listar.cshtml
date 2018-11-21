@@ -5,25 +5,35 @@
 @using Senai.Finacas.Web.Mvc.Models;
 <h3>Listagem de Usuários</h3>
 
+@TempData["Mensagem"]
+
 <table>
     <thead>
+        <th>Id</th>
         <th>Nome</th>
         <th>Email</th>
         <th>Data Nascimento</th>
+        <th>Ações</th>
     </thead>
     <tbody>
        @foreach (var item in ViewData["Usuarios"] as List<UsuarioModel>)
        {
            <tr>
                 <td>
-                    @item.Nome
+                    @item.Id
+                </td>
                 <td>
+                    @item.Nome
+                </td>
                 <td>
                     @item.Email
-                <td>
+                </td>
                 <td>
                     @item.DataNascimento.ToShortDateString()
+                </td>
                 <td>
+                    <a href="/Usuario/Excluir?id=@item.Id">Excluir</a>
+                </td>
            </tr>
        } 
     </tbody>

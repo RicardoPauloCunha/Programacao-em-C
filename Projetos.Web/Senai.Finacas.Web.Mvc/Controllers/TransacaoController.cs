@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using System.IO;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -26,9 +27,38 @@ namespace Senai.Finacas.Web.Mvc.Controllers
             transacao.Data = DateTime.Parse(form["data"]);
 
             using (StreamWriter sw = new StreamWriter("transacao.csv", true))
-            sw.WriteLine($"{transacao.id};{transacao.Descricao};{transacao.Valor};{transacao.Tipo}{transacao.Data}");
+            sw.WriteLine($"{transacao.id};{transacao.Descricao};{transacao.Valor};{transacao.Tipo};{transacao.Data}");
 
             ViewBag.Mensagem = "Transação Cadastrado";;
+            return View();
+        }
+
+        [HttpGet]
+        public IActionResult Listar() {
+            List<TransacaoModel> lsTransacao = new List<TransacaoModel>();
+            string[] linhas = System.IO.File.ReadAllLines("transacao.csv");
+            TransacaoModel transacao;
+
+            foreach (var item in linhas)
+            {
+                if (string.IsNullOrEmpty(item))
+                {
+                    continue;
+                }
+
+                string[] linha = item.Split(";");
+                transacao = new TransacaoModel();
+
+                transacao.id = int.Parse(linha[0]);
+                transacao.Descricao = linha[1];
+                transacao.Valor = decimal.Parse(linha[2]);
+                transacao.Tipo = linha[3];
+                transacao.Data = DateTime.Parse(linha[4]);
+
+                lsTransacao.Add(transacao);
+            }
+
+            ViewData["Transacao"] = lsTransacao;
             return View();
         }
     }

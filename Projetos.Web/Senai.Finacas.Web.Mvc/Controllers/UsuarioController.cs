@@ -125,5 +125,65 @@ namespace Senai.Finacas.Web.Mvc.Controllers
             TempData["Mensagem"] = "Usuário excluido";
             return RedirectToAction("Listar");
         }
+    
+        [HttpGet]
+        public IActionResult Editar(int id) {
+
+            if (id == 0)
+            {
+                TempData["Mensagem"] = "Informe um usuario para editar";
+                return RedirectToAction("Listar");
+            }
+            string[] linhas = System.IO.File.ReadAllLines("usuarios.csv");
+
+            foreach (var item in linhas)
+            {
+                string[] linha = item.Split(";");
+
+                if (id.ToString() == linha[0])
+                {
+                    UsuarioModel usuario = new UsuarioModel();
+                    usuario.Id = int.Parse(linha[0]);
+                    usuario.Nome = linha[1];
+                    usuario.Email = linha[2];
+                    usuario.Senha = linha[3];
+                    usuario.DataNascimento = DateTime.Parse(linha[4]);
+
+                    ViewBag.Usuario = usuario;
+                    break;
+                }
+            }
+            
+            return View();
+        }
+    
+        [HttpPost]
+        public IActionResult Editar(IFormCollection form){
+            string[] linhas = System.IO.File.ReadAllLines("usuarios.csv");
+
+            for (int i = 0; i < linhas.Length; i++)
+            {
+                if (string.IsNullOrEmpty(linhas[i]))
+                {
+                    continue;
+                }
+
+                string[] colunas = linhas[i].Split(";");
+
+                //Verifica se o id do formulário é igual ao da linha
+                if (form["id"] == colunas[0])
+                {
+                    //Altera os dados da linha
+                    linhas[i] = ($"{form["id"]}");
+                    linhas[i] = ($"{form["id"]};{form["nome"]};{form["email"]};{form["senha"]};{form["dataNascimento"]}");
+                    break;
+                }
+            }
+
+            //Altera os valores da linha pelos novos dados
+            System.IO.File.WriteAllLines("usuarios.csv", linhas);
+            TempData["Mensagem"] = "Usuário editado";
+            return RedirectToAction("Listar");
+        }
     }
 }

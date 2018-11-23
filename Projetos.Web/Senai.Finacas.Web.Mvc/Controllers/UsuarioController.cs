@@ -1,8 +1,10 @@
 using System;
+using System.Collections.Generic;
 using System.IO;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Senai.Finacas.Web.Mvc.Models;
+using Senai.Finacas.Web.Mvc.Repositorios;
 
 namespace Senai.Finacas.Web.Mvc.Controllers
 {
@@ -20,11 +22,9 @@ namespace Senai.Finacas.Web.Mvc.Controllers
             usuario.Email = form["email"];
             usuario.Senha = form["senha"];
             usuario.DataNascimento = DateTime.Parse(form["dataNascimento"]);
-            
-            using (StreamWriter sw = new StreamWriter("usuarios.csv", true)) {
-                sw.WriteLine($"{usuario.Nome};{usuario.Email};{usuario.Senha};{usuario.DataNascimento}");
-            }
 
+            UsuarioRepositorio usuarioRep = new UsuarioRepositorio();
+            usuarioRep.Cadastrar(usuario);
             ViewBag.Mensagem = "Usuário Cadastrado";
 
             return View();
@@ -37,24 +37,72 @@ namespace Senai.Finacas.Web.Mvc.Controllers
 
         [HttpPost]
         public IActionResult Login(IFormCollection form) {
-            UsuarioModel usuario = new UsuarioModel();
-            usuario.Email = form["email"];
-            usuario.Senha = form["senha"];
-           
-            using (StreamReader sr = new StreamReader("usuarios.csv")){
-                while (!sr.EndOfStream)
-                {
-                    string[] linhas = sr.ReadLine().Split(";");
+            UsuarioRepositorio usuarioRep = new UsuarioRepositorio();
+            UsuarioModel usuario = usuarioRep.Login(form["email"], form["senha"]);
 
-                    if (linhas[1] == usuario.Email && linhas[2] == usuario.Senha) {
-                        HttpContext.Session.SetString("emailUsuario", usuario.Email);
-                        return RedirectToAction("Cadastrar", "Transacao");
-                    }
-                }
+            if (usuario != null)
+            {
+                HttpContext.Session.SetString("idUsuario", usuario.Id.ToString());
+                return RedirectToAction("Cadastrar", "Transacao");
             }
             ViewBag.Mensagem = "Ususario Inválido";
 
             return View();
+        }
+
+        [HttpGet]
+        public IActionResult Listar() {
+            UsuarioRepositorio usuarioRep = new UsuarioRepositorio();
+
+            ViewData["Usuarios"] = usuarioRep.Listar();
+            return View();
+        }
+
+        [HttpGet]
+        public IActionResult Excluir(int id) {
+            UsuarioRepositorio usuarioRep = new UsuarioRepositorio();
+            usuarioRep.Excluir(id);
+
+            TempData["Mensagem"] = "Usuário excluido";
+            return RedirectToAction("Listar");
+        }
+    
+        [HttpGet]
+        public IActionResult Editar(int id) {
+
+            if (id == 0)
+            {
+                TempData["Mensagem"] = "Informe um usuario para editar";
+                return RedirectToAction("Listar");
+            }
+            
+            UsuarioRepositorio usuarioRep = new UsuarioRepositorio();
+            UsuarioModel usuario = usuarioRep.BuscarPorId(id);
+
+            if (usuario != null)
+            {
+                TempData["Mensagem"] = "Informe um usuario para editar";
+                return RedirectToAction("Editar");
+            }
+            
+            return View();
+        }
+    
+        [HttpPost]
+        public IActionResult Editar(IFormCollection form){
+            UsuarioModel usuario = new UsuarioModel{
+                Id = int.Parse(form["id"]),
+                Nome = form["nome"],
+                Email = form["email"],
+                Senha = form["senha"],
+                DataNascimento = DateTime.Parse(form["dataNascimento"])
+            };
+
+            UsuarioRepositorio usuarioRep = new UsuarioRepositorio();
+            usuarioRep.Editar(usuario);
+            
+            TempData["Mensagem"] = "Usuário editado";
+            return RedirectToAction("Listar");
         }
     }
 }

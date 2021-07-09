@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E02_porta", "E02_porta.csproj", "{DB36B905-1906-4456-8C69-DE29DED48CB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB36B905-1906-4456-8C69-DE29DED48CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB36B905-1906-4456-8C69-DE29DED48CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB36B905-1906-4456-8C69-DE29DED48CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB36B905-1906-4456-8C69-DE29DED48CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4085BFCB-9DCA-4E90-B572-FB4BD955B424}
+	EndGlobalSection
+EndGlobal

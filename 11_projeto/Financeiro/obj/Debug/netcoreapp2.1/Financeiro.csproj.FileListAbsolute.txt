@@ -1,0 +1,10 @@
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\13_projeto\Senai.Projetos.Financeiro.Correcao\bin\Debug\netcoreapp2.1\Financeiro.deps.json
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\13_projeto\Senai.Projetos.Financeiro.Correcao\bin\Debug\netcoreapp2.1\Financeiro.runtimeconfig.json
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\13_projeto\Senai.Projetos.Financeiro.Correcao\bin\Debug\netcoreapp2.1\Financeiro.runtimeconfig.dev.json
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\13_projeto\Senai.Projetos.Financeiro.Correcao\bin\Debug\netcoreapp2.1\Financeiro.dll
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\13_projeto\Senai.Projetos.Financeiro.Correcao\bin\Debug\netcoreapp2.1\Financeiro.pdb
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\13_projeto\Senai.Projetos.Financeiro.Correcao\obj\Debug\netcoreapp2.1\Financeiro.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\13_projeto\Senai.Projetos.Financeiro.Correcao\obj\Debug\netcoreapp2.1\Financeiro.AssemblyInfoInputs.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\13_projeto\Senai.Projetos.Financeiro.Correcao\obj\Debug\netcoreapp2.1\Financeiro.AssemblyInfo.cs
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\13_projeto\Senai.Projetos.Financeiro.Correcao\obj\Debug\netcoreapp2.1\Financeiro.dll
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\13_projeto\Senai.Projetos.Financeiro.Correcao\obj\Debug\netcoreapp2.1\Financeiro.pdb

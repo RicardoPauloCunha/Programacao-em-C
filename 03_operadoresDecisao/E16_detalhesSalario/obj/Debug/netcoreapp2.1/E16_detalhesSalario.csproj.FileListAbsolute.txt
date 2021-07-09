@@ -1,0 +1,10 @@
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Decisao\Senai.Swith.Exercicio4\bin\Debug\netcoreapp2.1\E16_detalhesSalario.deps.json
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Decisao\Senai.Swith.Exercicio4\bin\Debug\netcoreapp2.1\E16_detalhesSalario.runtimeconfig.json
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Decisao\Senai.Swith.Exercicio4\bin\Debug\netcoreapp2.1\E16_detalhesSalario.runtimeconfig.dev.json
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Decisao\Senai.Swith.Exercicio4\bin\Debug\netcoreapp2.1\E16_detalhesSalario.dll
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Decisao\Senai.Swith.Exercicio4\bin\Debug\netcoreapp2.1\E16_detalhesSalario.pdb
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Decisao\Senai.Swith.Exercicio4\obj\Debug\netcoreapp2.1\E16_detalhesSalario.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Decisao\Senai.Swith.Exercicio4\obj\Debug\netcoreapp2.1\E16_detalhesSalario.AssemblyInfoInputs.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Decisao\Senai.Swith.Exercicio4\obj\Debug\netcoreapp2.1\E16_detalhesSalario.AssemblyInfo.cs
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Decisao\Senai.Swith.Exercicio4\obj\Debug\netcoreapp2.1\E16_detalhesSalario.dll
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Decisao\Senai.Swith.Exercicio4\obj\Debug\netcoreapp2.1\E16_detalhesSalario.pdb

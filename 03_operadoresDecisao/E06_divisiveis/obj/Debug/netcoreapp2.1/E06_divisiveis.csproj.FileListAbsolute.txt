@@ -1,0 +1,11 @@
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio6\bin\Debug\netcoreapp2.1\E06_divisiveis.deps.json
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio6\bin\Debug\netcoreapp2.1\E06_divisiveis.runtimeconfig.json
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio6\bin\Debug\netcoreapp2.1\E06_divisiveis.runtimeconfig.dev.json
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio6\bin\Debug\netcoreapp2.1\E06_divisiveis.dll
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio6\bin\Debug\netcoreapp2.1\E06_divisiveis.pdb
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio6\obj\Debug\netcoreapp2.1\E06_divisiveis.csprojAssemblyReference.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio6\obj\Debug\netcoreapp2.1\E06_divisiveis.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio6\obj\Debug\netcoreapp2.1\E06_divisiveis.AssemblyInfoInputs.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio6\obj\Debug\netcoreapp2.1\E06_divisiveis.AssemblyInfo.cs
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio6\obj\Debug\netcoreapp2.1\E06_divisiveis.dll
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio6\obj\Debug\netcoreapp2.1\E06_divisiveis.pdb

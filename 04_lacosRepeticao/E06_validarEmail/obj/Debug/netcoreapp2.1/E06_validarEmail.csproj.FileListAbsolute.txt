@@ -1,0 +1,10 @@
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Lacos.Repeticao\DoWhile\Senai.Exemplo.Do.While.ValidarEmail\bin\Debug\netcoreapp2.1\E06_validarEmail.deps.json
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Lacos.Repeticao\DoWhile\Senai.Exemplo.Do.While.ValidarEmail\bin\Debug\netcoreapp2.1\E06_validarEmail.runtimeconfig.json
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Lacos.Repeticao\DoWhile\Senai.Exemplo.Do.While.ValidarEmail\bin\Debug\netcoreapp2.1\E06_validarEmail.runtimeconfig.dev.json
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Lacos.Repeticao\DoWhile\Senai.Exemplo.Do.While.ValidarEmail\bin\Debug\netcoreapp2.1\E06_validarEmail.dll
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Lacos.Repeticao\DoWhile\Senai.Exemplo.Do.While.ValidarEmail\bin\Debug\netcoreapp2.1\E06_validarEmail.pdb
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Lacos.Repeticao\DoWhile\Senai.Exemplo.Do.While.ValidarEmail\obj\Debug\netcoreapp2.1\E06_validarEmail.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Lacos.Repeticao\DoWhile\Senai.Exemplo.Do.While.ValidarEmail\obj\Debug\netcoreapp2.1\E06_validarEmail.AssemblyInfoInputs.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Lacos.Repeticao\DoWhile\Senai.Exemplo.Do.While.ValidarEmail\obj\Debug\netcoreapp2.1\E06_validarEmail.AssemblyInfo.cs
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Lacos.Repeticao\DoWhile\Senai.Exemplo.Do.While.ValidarEmail\obj\Debug\netcoreapp2.1\E06_validarEmail.dll
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Lacos.Repeticao\DoWhile\Senai.Exemplo.Do.While.ValidarEmail\obj\Debug\netcoreapp2.1\E06_validarEmail.pdb

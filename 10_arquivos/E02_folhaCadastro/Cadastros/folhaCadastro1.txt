@@ -1,0 +1,9 @@
+-- Folha de cadastro --
+
+Nome do usuário: 
+Usuario Teste1
+
+Email do usuário:
+emailteste1@gmail.com
+
+Data de criação:07/07/2021 20:05:56

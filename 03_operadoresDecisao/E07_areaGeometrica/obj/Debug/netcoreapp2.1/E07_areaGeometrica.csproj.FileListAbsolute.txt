@@ -1,0 +1,10 @@
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio7\bin\Debug\netcoreapp2.1\E07_areaGeometrica.deps.json
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio7\bin\Debug\netcoreapp2.1\E07_areaGeometrica.runtimeconfig.json
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio7\bin\Debug\netcoreapp2.1\E07_areaGeometrica.runtimeconfig.dev.json
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio7\bin\Debug\netcoreapp2.1\E07_areaGeometrica.dll
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio7\bin\Debug\netcoreapp2.1\E07_areaGeometrica.pdb
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio7\obj\Debug\netcoreapp2.1\E07_areaGeometrica.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio7\obj\Debug\netcoreapp2.1\E07_areaGeometrica.AssemblyInfoInputs.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio7\obj\Debug\netcoreapp2.1\E07_areaGeometrica.AssemblyInfo.cs
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio7\obj\Debug\netcoreapp2.1\E07_areaGeometrica.dll
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio7\obj\Debug\netcoreapp2.1\E07_areaGeometrica.pdb

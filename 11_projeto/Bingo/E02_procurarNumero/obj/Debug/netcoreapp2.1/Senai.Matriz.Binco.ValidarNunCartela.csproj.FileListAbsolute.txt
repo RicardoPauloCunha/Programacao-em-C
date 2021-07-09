@@ -1,0 +1,22 @@
+C:\Users\50473694808\Desktop\C#\Senai.Matriz\Bingo\Senai.Matriz.Binco.ValidarNunCartela\bin\Debug\netcoreapp2.1\Senai.Matriz.Binco.ValidarNunCartela.deps.json
+C:\Users\50473694808\Desktop\C#\Senai.Matriz\Bingo\Senai.Matriz.Binco.ValidarNunCartela\bin\Debug\netcoreapp2.1\Senai.Matriz.Binco.ValidarNunCartela.runtimeconfig.json
+C:\Users\50473694808\Desktop\C#\Senai.Matriz\Bingo\Senai.Matriz.Binco.ValidarNunCartela\bin\Debug\netcoreapp2.1\Senai.Matriz.Binco.ValidarNunCartela.runtimeconfig.dev.json
+C:\Users\50473694808\Desktop\C#\Senai.Matriz\Bingo\Senai.Matriz.Binco.ValidarNunCartela\bin\Debug\netcoreapp2.1\Senai.Matriz.Binco.ValidarNunCartela.dll
+C:\Users\50473694808\Desktop\C#\Senai.Matriz\Bingo\Senai.Matriz.Binco.ValidarNunCartela\bin\Debug\netcoreapp2.1\Senai.Matriz.Binco.ValidarNunCartela.pdb
+C:\Users\50473694808\Desktop\C#\Senai.Matriz\Bingo\Senai.Matriz.Binco.ValidarNunCartela\obj\Debug\netcoreapp2.1\Senai.Matriz.Binco.ValidarNunCartela.csprojAssemblyReference.cache
+C:\Users\50473694808\Desktop\C#\Senai.Matriz\Bingo\Senai.Matriz.Binco.ValidarNunCartela\obj\Debug\netcoreapp2.1\Senai.Matriz.Binco.ValidarNunCartela.csproj.CoreCompileInputs.cache
+C:\Users\50473694808\Desktop\C#\Senai.Matriz\Bingo\Senai.Matriz.Binco.ValidarNunCartela\obj\Debug\netcoreapp2.1\Senai.Matriz.Binco.ValidarNunCartela.AssemblyInfoInputs.cache
+C:\Users\50473694808\Desktop\C#\Senai.Matriz\Bingo\Senai.Matriz.Binco.ValidarNunCartela\obj\Debug\netcoreapp2.1\Senai.Matriz.Binco.ValidarNunCartela.AssemblyInfo.cs
+C:\Users\50473694808\Desktop\C#\Senai.Matriz\Bingo\Senai.Matriz.Binco.ValidarNunCartela\obj\Debug\netcoreapp2.1\Senai.Matriz.Binco.ValidarNunCartela.dll
+C:\Users\50473694808\Desktop\C#\Senai.Matriz\Bingo\Senai.Matriz.Binco.ValidarNunCartela\obj\Debug\netcoreapp2.1\Senai.Matriz.Binco.ValidarNunCartela.pdb
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Matriz\Bingo\Senai.Matriz.Binco.ValidarNunCartela\bin\Debug\netcoreapp2.1\Senai.Matriz.Binco.ValidarNunCartela.deps.json
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Matriz\Bingo\Senai.Matriz.Binco.ValidarNunCartela\bin\Debug\netcoreapp2.1\Senai.Matriz.Binco.ValidarNunCartela.runtimeconfig.json
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Matriz\Bingo\Senai.Matriz.Binco.ValidarNunCartela\bin\Debug\netcoreapp2.1\Senai.Matriz.Binco.ValidarNunCartela.runtimeconfig.dev.json
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Matriz\Bingo\Senai.Matriz.Binco.ValidarNunCartela\bin\Debug\netcoreapp2.1\Senai.Matriz.Binco.ValidarNunCartela.dll
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Matriz\Bingo\Senai.Matriz.Binco.ValidarNunCartela\bin\Debug\netcoreapp2.1\Senai.Matriz.Binco.ValidarNunCartela.pdb
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Matriz\Bingo\Senai.Matriz.Binco.ValidarNunCartela\obj\Debug\netcoreapp2.1\Senai.Matriz.Binco.ValidarNunCartela.csprojAssemblyReference.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Matriz\Bingo\Senai.Matriz.Binco.ValidarNunCartela\obj\Debug\netcoreapp2.1\Senai.Matriz.Binco.ValidarNunCartela.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Matriz\Bingo\Senai.Matriz.Binco.ValidarNunCartela\obj\Debug\netcoreapp2.1\Senai.Matriz.Binco.ValidarNunCartela.AssemblyInfoInputs.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Matriz\Bingo\Senai.Matriz.Binco.ValidarNunCartela\obj\Debug\netcoreapp2.1\Senai.Matriz.Binco.ValidarNunCartela.AssemblyInfo.cs
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Matriz\Bingo\Senai.Matriz.Binco.ValidarNunCartela\obj\Debug\netcoreapp2.1\Senai.Matriz.Binco.ValidarNunCartela.dll
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Matriz\Bingo\Senai.Matriz.Binco.ValidarNunCartela\obj\Debug\netcoreapp2.1\Senai.Matriz.Binco.ValidarNunCartela.pdb

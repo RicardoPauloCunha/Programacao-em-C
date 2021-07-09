@@ -1,0 +1,11 @@
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio5\bin\Debug\netcoreapp2.1\E05_ordemCrescente.deps.json
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio5\bin\Debug\netcoreapp2.1\E05_ordemCrescente.runtimeconfig.json
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio5\bin\Debug\netcoreapp2.1\E05_ordemCrescente.runtimeconfig.dev.json
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio5\bin\Debug\netcoreapp2.1\E05_ordemCrescente.dll
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio5\bin\Debug\netcoreapp2.1\E05_ordemCrescente.pdb
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio5\obj\Debug\netcoreapp2.1\E05_ordemCrescente.csprojAssemblyReference.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio5\obj\Debug\netcoreapp2.1\E05_ordemCrescente.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio5\obj\Debug\netcoreapp2.1\E05_ordemCrescente.AssemblyInfoInputs.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio5\obj\Debug\netcoreapp2.1\E05_ordemCrescente.AssemblyInfo.cs
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio5\obj\Debug\netcoreapp2.1\E05_ordemCrescente.dll
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Operadores.Logicos\Senai.Operadores.Logicos.Exercicio5\obj\Debug\netcoreapp2.1\E05_ordemCrescente.pdb

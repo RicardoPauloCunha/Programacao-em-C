@@ -1,0 +1,22 @@
+C:\Users\50473694808\Desktop\C#\Senai.For\Senai.For.Exercicio5.Idade\bin\Debug\netcoreapp2.1\Senai.For.Exercicio5.Idade.deps.json
+C:\Users\50473694808\Desktop\C#\Senai.For\Senai.For.Exercicio5.Idade\bin\Debug\netcoreapp2.1\Senai.For.Exercicio5.Idade.runtimeconfig.json
+C:\Users\50473694808\Desktop\C#\Senai.For\Senai.For.Exercicio5.Idade\bin\Debug\netcoreapp2.1\Senai.For.Exercicio5.Idade.runtimeconfig.dev.json
+C:\Users\50473694808\Desktop\C#\Senai.For\Senai.For.Exercicio5.Idade\bin\Debug\netcoreapp2.1\Senai.For.Exercicio5.Idade.dll
+C:\Users\50473694808\Desktop\C#\Senai.For\Senai.For.Exercicio5.Idade\bin\Debug\netcoreapp2.1\Senai.For.Exercicio5.Idade.pdb
+C:\Users\50473694808\Desktop\C#\Senai.For\Senai.For.Exercicio5.Idade\obj\Debug\netcoreapp2.1\Senai.For.Exercicio5.Idade.csprojAssemblyReference.cache
+C:\Users\50473694808\Desktop\C#\Senai.For\Senai.For.Exercicio5.Idade\obj\Debug\netcoreapp2.1\Senai.For.Exercicio5.Idade.csproj.CoreCompileInputs.cache
+C:\Users\50473694808\Desktop\C#\Senai.For\Senai.For.Exercicio5.Idade\obj\Debug\netcoreapp2.1\Senai.For.Exercicio5.Idade.AssemblyInfoInputs.cache
+C:\Users\50473694808\Desktop\C#\Senai.For\Senai.For.Exercicio5.Idade\obj\Debug\netcoreapp2.1\Senai.For.Exercicio5.Idade.AssemblyInfo.cs
+C:\Users\50473694808\Desktop\C#\Senai.For\Senai.For.Exercicio5.Idade\obj\Debug\netcoreapp2.1\Senai.For.Exercicio5.Idade.dll
+C:\Users\50473694808\Desktop\C#\Senai.For\Senai.For.Exercicio5.Idade\obj\Debug\netcoreapp2.1\Senai.For.Exercicio5.Idade.pdb
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.For\Senai.For.Exercicio5.Idade\bin\Debug\netcoreapp2.1\Senai.For.Exercicio5.Idade.deps.json
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.For\Senai.For.Exercicio5.Idade\bin\Debug\netcoreapp2.1\Senai.For.Exercicio5.Idade.runtimeconfig.json
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.For\Senai.For.Exercicio5.Idade\bin\Debug\netcoreapp2.1\Senai.For.Exercicio5.Idade.runtimeconfig.dev.json
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.For\Senai.For.Exercicio5.Idade\bin\Debug\netcoreapp2.1\Senai.For.Exercicio5.Idade.dll
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.For\Senai.For.Exercicio5.Idade\bin\Debug\netcoreapp2.1\Senai.For.Exercicio5.Idade.pdb
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.For\Senai.For.Exercicio5.Idade\obj\Debug\netcoreapp2.1\Senai.For.Exercicio5.Idade.csprojAssemblyReference.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.For\Senai.For.Exercicio5.Idade\obj\Debug\netcoreapp2.1\Senai.For.Exercicio5.Idade.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.For\Senai.For.Exercicio5.Idade\obj\Debug\netcoreapp2.1\Senai.For.Exercicio5.Idade.AssemblyInfoInputs.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.For\Senai.For.Exercicio5.Idade\obj\Debug\netcoreapp2.1\Senai.For.Exercicio5.Idade.AssemblyInfo.cs
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.For\Senai.For.Exercicio5.Idade\obj\Debug\netcoreapp2.1\Senai.For.Exercicio5.Idade.dll
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.For\Senai.For.Exercicio5.Idade\obj\Debug\netcoreapp2.1\Senai.For.Exercicio5.Idade.pdb

@@ -1,0 +1,11 @@
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Lacos.Repeticao\While\Senai.Lacos.Repeticao.Exercicio1\bin\Debug\netcoreapp2.1\E10_sequencia.deps.json
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Lacos.Repeticao\While\Senai.Lacos.Repeticao.Exercicio1\bin\Debug\netcoreapp2.1\E10_sequencia.runtimeconfig.json
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Lacos.Repeticao\While\Senai.Lacos.Repeticao.Exercicio1\bin\Debug\netcoreapp2.1\E10_sequencia.runtimeconfig.dev.json
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Lacos.Repeticao\While\Senai.Lacos.Repeticao.Exercicio1\bin\Debug\netcoreapp2.1\E10_sequencia.dll
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Lacos.Repeticao\While\Senai.Lacos.Repeticao.Exercicio1\bin\Debug\netcoreapp2.1\E10_sequencia.pdb
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Lacos.Repeticao\While\Senai.Lacos.Repeticao.Exercicio1\obj\Debug\netcoreapp2.1\E10_sequencia.csprojAssemblyReference.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Lacos.Repeticao\While\Senai.Lacos.Repeticao.Exercicio1\obj\Debug\netcoreapp2.1\E10_sequencia.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Lacos.Repeticao\While\Senai.Lacos.Repeticao.Exercicio1\obj\Debug\netcoreapp2.1\E10_sequencia.AssemblyInfoInputs.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Lacos.Repeticao\While\Senai.Lacos.Repeticao.Exercicio1\obj\Debug\netcoreapp2.1\E10_sequencia.AssemblyInfo.cs
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Lacos.Repeticao\While\Senai.Lacos.Repeticao.Exercicio1\obj\Debug\netcoreapp2.1\E10_sequencia.dll
+C:\Users\ricar\OneDrive\Área de Trabalho\cursos\csharp\csharp-senai\Senai.Lacos.Repeticao\While\Senai.Lacos.Repeticao.Exercicio1\obj\Debug\netcoreapp2.1\E10_sequencia.pdb
